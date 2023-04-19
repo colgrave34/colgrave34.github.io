@@ -1,3 +1,0 @@
-# blog
-
-Colgrave's blog
