@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Keyboard 101
+title: Mechanical Keyboard 101
 nav_order: 2
 has_children: true
 ---
