@@ -2,7 +2,7 @@
 layout: default
 title: My experience with ChatGPT
 date: 2022-12-29
-nav_order: 5
+nav_order: 7
 ---
 # My experience with ChatGPT
 [中文](https://blog.hanqixu.com/%E5%88%9D%E8%A7%81ChatGPT/){: .btn }  

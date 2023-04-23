@@ -2,7 +2,7 @@
 layout: default
 title: 初见ChatGPT
 date: 2022-12-29
-nav_order: 6
+nav_order: 8
 ---
 # 初见ChatGPT
 [English](https://blog.hanqixu.com/My%20experience%20with%20ChatGPT/){: .btn }  
