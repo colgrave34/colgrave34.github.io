@@ -5,5 +5,5 @@ nav_order: 2
 has_children: true
 ---
 # The daily basic guide of Linux
-This 101 course will tell you the ins and outs about Linux, GNU and the history.  
-Further provide guides to use Linux operating system as your daily driver.
+The Kernel of Freedom is a series of blogs and videos about Linux, GNU and the history. Include setting up servers and use open source softwares.  
+Further provide guides to use Linux operating system as your daily driver.  
