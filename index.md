@@ -2,16 +2,23 @@
 layout: home
 nav_order: 1
 ---
-# Welcome to Colgrave's Blog / Archive
-**This is more like a video scripts archive than a blog. I will post guides about servers and Linux here.**  
-**Feel free to correct me on Codeberg!**  
-  
-这里更像是一个视频档案。 我会在这里发布有关服务器和 Linux 的指南。  
+# Welcome to Colgrave's Blog
+**Feel free to correct me on Codeberg!**    
 随时在 Codeberg 上纠正我！
-中文教程在左侧的中文指北里，每篇文章上我也会有中文链接.  
 
-[Bilibili](https://space.bilibili.com/16015122/){: .btn } [Odysee](https://odysee.com/@Colgrave:8){: .btn .btn-blue }
+## Series
+- [**The Kernel of freedom**]()  
+[The Kernel of freedom 中文简体]()  
+  
+- [**Custom Keyboard 101**]()  
+[客制化键盘指北]()  
+  
+- [**Clear**]()  
 
+## Videos
+[Bilibili](https://space.bilibili.com/16015122/){: .btn }  
+[Odysee](https://odysee.com/@Colgrave:8){: .btn .btn-blue }  
+  
 ## Matrix
 Matrix is an open, real-time communication protocol.  
 Here is my Matrix group chat, come in and hang out!  
