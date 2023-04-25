@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MC服务器连接教程和MOD安装
-nav_order: 5
+nav_order: 8
 ---
 # MC服务器连接教程和MOD安装
 写的不全，见谅！  
