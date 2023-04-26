@@ -2,7 +2,8 @@
 layout: default
 title: 初见ChatGPT
 date: 2022-12-29
-nav_order: 10
+nav_order: 3
+parent: The kernel of freedom 中文简体
 ---
 # 初见ChatGPT
 [English](https://blog.hanqixu.com/My%20experience%20with%20ChatGPT/){: .btn }  
