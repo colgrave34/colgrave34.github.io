@@ -2,7 +2,7 @@
 layout: default
 title: MC服务器架设教程
 nav_order: 1
-parent: The kernel of freedom 中文简体
+parent: The Kernel of Freedom 中文
 ---
 这是服务器端架设方法，万一以后没人管了还有救.  
 我是用[debian](https://www.debian.org/)，稳定简单.  

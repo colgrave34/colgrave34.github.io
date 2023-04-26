@@ -2,7 +2,7 @@
 layout: default
 title: MC服务器连接教程和MOD安装
 nav_order: 2
-parent: The kernel of freedom 中文简体
+parent: The Kernel of Freedom 中文
 ---
 # MC服务器连接教程和MOD安装
 写的不全，见谅！  
