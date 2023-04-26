@@ -2,184 +2,184 @@
     "doc": "MC服务器架设教程",
     "title": "安装",
     "content": "ssh远程控制 . ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#%E5%AE%89%E8%A3%85",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#%E5%AE%89%E8%A3%85",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#安装"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#安装"
   },"1": {
     "doc": "MC服务器架设教程",
     "title": "2. 服务器用户",
     "content": "添加服务器用户 . 不要用root用户跑命令！稍微一错全完蛋。所以新建一个用户出来，给root权限就好。 . adduser colgrave . 更改用户权限 . 把用户 colgrave 加入 sudo 组 . usermod -aG sudo colgrave . 退出root用户 . exit . 用新用户登录 . ssh colgrave@192.186.0.0 . ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#2-%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%94%A8%E6%88%B7",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#2-%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%94%A8%E6%88%B7",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#2-服务器用户"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#2-服务器用户"
   },"2": {
     "doc": "MC服务器架设教程",
     "title": "3. 禁用root通过ssh登录",
     "content": "为了增强安全性，禁用root通过ssh登录 . sudo nano /etc/ssh/sshd_config . 重启ssh . sudo service sshd restart . ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#3-%E7%A6%81%E7%94%A8root%E9%80%9A%E8%BF%87ssh%E7%99%BB%E5%BD%95",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#3-%E7%A6%81%E7%94%A8root%E9%80%9A%E8%BF%87ssh%E7%99%BB%E5%BD%95",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#3-禁用root通过ssh登录"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#3-禁用root通过ssh登录"
   },"3": {
     "doc": "MC服务器架设教程",
     "title": "4. 系统更新",
     "content": "sudo apt update &amp;&amp; sudo apt upgrade -y . ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#4-%E7%B3%BB%E7%BB%9F%E6%9B%B4%E6%96%B0",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#4-%E7%B3%BB%E7%BB%9F%E6%9B%B4%E6%96%B0",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#4-系统更新"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#4-系统更新"
   },"4": {
     "doc": "MC服务器架设教程",
     "title": "5. 设置自动更新",
     "content": "sudo apt install unattended-upgrades #安装自动更新 sudo nano /etc/apt/apt.conf.d/50unattended-upgrades #设置自动更新 . 检查 . apt-config dump APT::Periodic::Unattended-Upgrade . ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#5-%E8%AE%BE%E7%BD%AE%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#5-%E8%AE%BE%E7%BD%AE%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#5-设置自动更新"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#5-设置自动更新"
   },"5": {
     "doc": "MC服务器架设教程",
     "title": "6. 安装",
     "content": "我们需要安装Java17和Pufferpanel。Pufferpanel是一个网页UI服务器管理。 电脑白痴类型管理，安就完事了。 如果不知道下哪个Java，其他发行版自行谷歌。 . curl -s https://packagecloud.io/install/repositories/pufferpanel/pufferpanel/script.deb.sh | sudo bash sudo apt update sudo apt install openjdk-17-jre-headless pufferpanel -y #安装Java和Pufferpanel sudo apt autoremove #删除多余安装包 . ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#6-%E5%AE%89%E8%A3%85",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#6-%E5%AE%89%E8%A3%85",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#6-安装"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#6-安装"
   },"6": {
     "doc": "MC服务器架设教程",
     "title": "7. 防火墙设置",
     "content": "sudo ufw allow ssh sudo ufw allow 8080/tcp #Pufferpanel端口 sudo ufw allow 25565/tcp #Minecraft服务器端口 sudo ufw enable #启用ufw防火墙 sudo ufw reload #重启ufw防火墙 . ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#7-%E9%98%B2%E7%81%AB%E5%A2%99%E8%AE%BE%E7%BD%AE",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#7-%E9%98%B2%E7%81%AB%E5%A2%99%E8%AE%BE%E7%BD%AE",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#7-防火墙设置"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#7-防火墙设置"
   },"7": {
     "doc": "MC服务器架设教程",
     "title": "8. 添加Pufferpanel用户",
     "content": "sudo pufferpanel user add . ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#8-%E6%B7%BB%E5%8A%A0pufferpanel%E7%94%A8%E6%88%B7",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#8-%E6%B7%BB%E5%8A%A0pufferpanel%E7%94%A8%E6%88%B7",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#8-添加pufferpanel用户"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#8-添加pufferpanel用户"
   },"8": {
     "doc": "MC服务器架设教程",
     "title": "9. 设置开机自启动",
     "content": "sudo systemctl enable --now pufferpanel . ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#9-%E8%AE%BE%E7%BD%AE%E5%BC%80%E6%9C%BA%E8%87%AA%E5%90%AF%E5%8A%A8",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#9-%E8%AE%BE%E7%BD%AE%E5%BC%80%E6%9C%BA%E8%87%AA%E5%90%AF%E5%8A%A8",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#9-设置开机自启动"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#9-设置开机自启动"
   },"9": {
     "doc": "MC服务器架设教程",
     "title": "安装后",
     "content": " ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#%E5%AE%89%E8%A3%85%E5%90%8E",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#%E5%AE%89%E8%A3%85%E5%90%8E",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#安装后"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#安装后"
   },"10": {
     "doc": "MC服务器架设教程",
     "title": "Pufferpanel设置",
     "content": " ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#pufferpanel%E8%AE%BE%E7%BD%AE",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#pufferpanel%E8%AE%BE%E7%BD%AE",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#pufferpanel设置"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#pufferpanel设置"
   },"11": {
     "doc": "MC服务器架设教程",
     "title": "online-mode",
     "content": "如果大家没有正版，在用HMCL启动器，关闭Server.properties文件里的online-mode . online-mode false . ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#online-mode",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#online-mode",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#online-mode"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#online-mode"
   },"12": {
     "doc": "MC服务器架设教程",
     "title": "域名设置",
     "content": " ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#%E5%9F%9F%E5%90%8D%E8%AE%BE%E7%BD%AE",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#%E5%9F%9F%E5%90%8D%E8%AE%BE%E7%BD%AE",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#域名设置"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#域名设置"
   },"13": {
     "doc": "MC服务器架设教程",
     "title": "Caddy",
     "content": "安装Caddy . sudo apt install -y debian-keyring debian-archive-keyring apt-transport-https curl -1sLf 'https://dl.cloudsmith.io/public/caddy/stable/gpg.key' | sudo gpg --dearmor -o /usr/share/keyrings/caddy-stable-archive-keyring.gpg curl -1sLf 'https://dl.cloudsmith.io/public/caddy/stable/debian.deb.txt' | sudo tee /etc/apt/sources.list.d/caddy-stable.list sudo apt install caddy sudo apt autoremove . 设置开机自启动 . sudo systemctl enable --now caddy . 防火墙设置 . sudo ufw allow https #打开https端口 sudo ufw deny 8080/tcp #关闭Pufferpanel端口 sudo ufw reload #重启ufw防火墙 . ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#caddy",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#caddy",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#caddy"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/#caddy"
   },"14": {
     "doc": "MC服务器架设教程",
     "title": "MC服务器架设教程",
     "content": "这是服务器端架设方法，万一以后没人管了还有救. 我是用debian，稳定简单. 其他发行版都可以安装，但请自行谷歌。 . ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E6%95%99%E7%A8%8B/"
   },"15": {
     "doc": "MC服务器连接教程和MOD安装",
     "title": "MC服务器连接教程和MOD安装",
     "content": "写的不全，见谅！ 云盘提取链接 云盘下载作废，请群文件下载 . ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/"
   },"16": {
     "doc": "MC服务器连接教程和MOD安装",
     "title": "1. Java",
     "content": "安装Java 我在包里放了一个Java17稳定版，直接安装就行 . 也可以直接去Oracle官网下载 x64 Installer和x64 MSI Installer都可以 . ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#1-java",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#1-java",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#1-java"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#1-java"
   },"17": {
     "doc": "MC服务器连接教程和MOD安装",
     "title": "2. Hello Minecraft! Launcher",
     "content": "安装HMCL启动器 包里有，直接运行 网速好的同学可以直接去官方Github下载，官网下载打不开… . ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#2-hello-minecraft-launcher",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#2-hello-minecraft-launcher",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#2-hello-minecraft-launcher"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#2-hello-minecraft-launcher"
   },"18": {
     "doc": "MC服务器连接教程和MOD安装",
     "title": "3. 运行及安装游戏",
     "content": "打开HMCL大概是这个样子的 点击左侧没有游戏版本去下载游戏 . 现阶段为了兼容性和稳定性，服务器游戏版本是1.18.2，Forge版本40.1.59 . 选择游戏版本1.18.2，Forge选择安装40.1.59 其他都不要安装 安装界面： . ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#3-%E8%BF%90%E8%A1%8C%E5%8F%8A%E5%AE%89%E8%A3%85%E6%B8%B8%E6%88%8F",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#3-%E8%BF%90%E8%A1%8C%E5%8F%8A%E5%AE%89%E8%A3%85%E6%B8%B8%E6%88%8F",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#3-运行及安装游戏"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#3-运行及安装游戏"
   },"19": {
     "doc": "MC服务器连接教程和MOD安装",
     "title": "4. 安装MOD",
     "content": "游戏安装完成，现在回到主界面，点击左手边游戏 ---&gt; 1.18.2 ---&gt; 模组管理 ---&gt; 添加模组 把包里的MOD全部塞进来就行： 成功添加MOD： 这里有三个选装MOD： Rubidium 提高性能，增加帧数 Oculus 光影必装 BSL Shaders 光影包 可装可不装，看自己情况 光影指南在这里 . 其他MOD请勿安装，会与服务器冲突 . ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#4-%E5%AE%89%E8%A3%85mod",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#4-%E5%AE%89%E8%A3%85mod",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#4-安装mod"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#4-安装mod"
   },"20": {
     "doc": "MC服务器连接教程和MOD安装",
     "title": "5. LINK START!",
     "content": "用户名 . 进服务器之前记得改用户名 . 启动游戏 . 可以启动游戏了，右下角直接 LINK START! . 查看MOD . 进入MC主界面后，可以检测一下MOD安装是否成功。左下点击Mod . 加入服务器 . 点击多人游戏 ---&gt; 添加服务器 服务器名称随意填就好了，服务器地址是服务器IP，不知道的去群里要 . ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#5-link-start",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#5-link-start",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#5-link-start"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#5-link-start"
   },"21": {
     "doc": "MC服务器连接教程和MOD安装",
     "title": "常见问题",
     "content": "MOD更新请通知我 . ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#常见问题"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#常见问题"
   },"22": {
     "doc": "MC服务器连接教程和MOD安装",
     "title": "游戏打不开看这里",
     "content": "Java . 老版Java记得卸载 保留老版可能会有冲突 卸载老版安装新版，记得重启 . Optifine . 服务器不支持 Optifine (暮色森林MOD不支持) Optifine 可以 Rubidium 和 Oculus 代替，两个加起来效果是和 Optifine 一样的 . ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#%E6%B8%B8%E6%88%8F%E6%89%93%E4%B8%8D%E5%BC%80%E7%9C%8B%E8%BF%99%E9%87%8C",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#%E6%B8%B8%E6%88%8F%E6%89%93%E4%B8%8D%E5%BC%80%E7%9C%8B%E8%BF%99%E9%87%8C",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#游戏打不开看这里"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#游戏打不开看这里"
   },"23": {
     "doc": "MC服务器连接教程和MOD安装",
     "title": "MOD指南",
     "content": "Inventory Sorter (一键整理) . 鼠标中键整理，滚轮滚动依次放入拿出1个单位 . 小地图设置 . 更改小地图形状 . 回到主界面 ---&gt; Mods ---&gt; 找到左边列表里的 Xaero's Minimap ---&gt; Config ---&gt; View ---&gt; Settings ---&gt; Shape . 小地图锁定向北 . 主界面 ---&gt; Mods ---&gt; Xaero's Minimap ---&gt; Config ---&gt; View ---&gt; Settings ---&gt; Lock Minimap North . 光影安装 . 以MOD模式安装 Rubidium 和 Oculus 进入游戏后， 设置 ---&gt; 视频设置 ---&gt; 光影包 之后拖进来就行了 . 皮肤 . 皮肤需要在启动器中设置 左边账户 ---&gt; 右边的小衣架 . ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#mod%E6%8C%87%E5%8D%97",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#mod%E6%8C%87%E5%8D%97",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#mod指南"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#mod指南"
   },"24": {
     "doc": "MC服务器连接教程和MOD安装",
     "title": "MOD列表",
     "content": ". | MrCrayfish’s Furniture Mod | Corpse | Dynamic Lights | FallingTree | Inventory Sorter | Just Enough Items (JEI) | Open Parties and Claims —&gt; 正式服添加 | Traveler’s Backpack | The Twilight Forest | Xaero’s World Map | Xaero’s Minimap —&gt; 正式服更改为FAIR-PLAY VERSION | . ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#mod%E5%88%97%E8%A1%A8",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#mod%E5%88%97%E8%A1%A8",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#mod列表"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#mod列表"
   },"25": {
     "doc": "MC服务器连接教程和MOD安装",
     "title": "选装",
     "content": ". | Rubidium | Oculus | BSL Shaders | . 07/31/2022 更新 服务器版本 beta-0.2.2 . ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#%E9%80%89%E8%A3%85",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#%E9%80%89%E8%A3%85",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#选装"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/MC%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B%E5%92%8CMOD%E5%AE%89%E8%A3%85/#选装"
   },"26": {
     "doc": "My experience with ChatGPT",
     "title": "My experience with ChatGPT",
@@ -190,7 +190,7 @@
   },"27": {
     "doc": "Clear",
     "title": "Clear",
-    "content": "Clear is a series of blogs and videos about self-improvement and productive living. It might also include my bits and pieces of my daily life. Clear是一套关于自我完善，高效生活的博客以及视频。 我生活中的点点滴滴也可能在里面。 . ",
+    "content": "Clear is a series of blogs and videos about self-improvement and productive living. Clear是一套关于自我完善，高效生活的博客以及视频。 . ",
     "url": "/Clear/",
     
     "relUrl": "/Clear/"
@@ -202,19 +202,19 @@
     
     "relUrl": "/Custom%20Keyboard%20101/"
   },"29": {
-    "doc": "The kernel of freedom 中文简体",
+    "doc": "The kernel of freedom 中文",
     "title": "The Kernel of Freedom",
     "content": "The Kernel of Freedom是一套关于Linux，GNU以及他们的历史的博客和视频。包括服务器设置以及开源软件的使用。 此外，还提供了使用Linux作为你的日常操作系统的指南。 . ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/#the-kernel-of-freedom",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/#the-kernel-of-freedom",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/#the-kernel-of-freedom"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/#the-kernel-of-freedom"
   },"30": {
-    "doc": "The kernel of freedom 中文简体",
-    "title": "The kernel of freedom 中文简体",
+    "doc": "The kernel of freedom 中文",
+    "title": "The kernel of freedom 中文",
     "content": " ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/"
   },"31": {
     "doc": "The kernel of freedom",
     "title": "The kernel of freedom",
@@ -289,57 +289,57 @@
     "doc": "还在花钱做笔记?",
     "title": "开篇",
     "content": "作为学生，尤其是在这个每人带着电脑去上课的年代。挑选笔记软件好像成了一件麻烦事。除了基本功能外: To-do List，表格，图片的插入；还要思考的就是价格。本来就扣扣缩缩的大学零花钱里又要拿出来买软件。 为了让大家摆脱这种状况，我为大家推荐几款开源笔记软件，既能省钱又比印象好用。 . ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#%E5%BC%80%E7%AF%87",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#%E5%BC%80%E7%AF%87",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#开篇"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#开篇"
   },"42": {
     "doc": "还在花钱做笔记?",
     "title": "开源",
     "content": "开源是一种写代码的方式。作为程序员，我把源代码开放，让所有人自由使用，这样的话我会得到更多的 Bug 反馈以及业界大佬的指导。而作为用户的我，免费获得了使用权，并且确保软件的透明度。 开源软件，Free and Open Source Software。这里的 Free 是自由的意思。 . 以下笔记软件大部分以 Markdown 格式录入为基础。 . ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#%E5%BC%80%E6%BA%90",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#%E5%BC%80%E6%BA%90",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#开源"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#开源"
   },"43": {
     "doc": "还在花钱做笔记?",
     "title": "Apps",
     "content": " ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#apps",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#apps",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#apps"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#apps"
   },"44": {
     "doc": "还在花钱做笔记?",
     "title": "1. Simplenote",
     "content": "https://simplenote.com/ https://github.com/Automattic/simplenote-electron https://sspai.com/post/70059 . SimpleNote是由Automattic公司开发的一款轻量化笔记工具。 . 画面简洁，傻瓜式的用法。电脑上只有左右两个面板，左边笔记列表，右面笔记编辑以及阅览。有相当多的键盘快捷键，以及打印功能。markdown的基本功能都能实现，像超链接，checklist都是支持的。simplenote网站上也有非常好理解markdown的教程。暗色模式和闪光弹模式也是支持的。 . 手机端也是相当的简洁，右下角添加笔记。左边编辑，右边预览。笔记列表和删除的笔记都在左边的工具栏里。 . 笔记的导入非常方便。支持同软件，也就是JSON。文本的导入，TXT和Markdown。还有就是Evernote的导入。对于在用evernote的同学是个福音了 . 值得一提的是，Simplenote有完善的历史版本管理，如果你有文档版本回顾的需求，相信 Simplenote 可以满足你。 唯一不支持的是图片的拖入。软件是支持图片的，但是插入图片外链才能正常预览。 . 剩下要注意的是，Simplenote只有客户端是开源的，服务器不是。正因为这个原因，笔记的同步是以注册一个免费账户的形式完成的。 我现在在国外，不能确定Simplenote在国内服务器的稳定性和速度。有尝试过的小伙伴们可以在评论区分享以下。 . ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#1-simplenote",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#1-simplenote",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#1-simplenote"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#1-simplenote"
   },"45": {
     "doc": "还在花钱做笔记?",
     "title": "2. Joplin",
     "content": "https://joplinapp.org/ https://github.com/laurent22/joplin/ . Joiplin是我现在正在使用的，也是我觉得对于开源方式做的最好的。客户端是完全开源的，官方的服务器虽然不是，但是Joplin的好处就是你那里都可以同步。Dropbox, Onedrive, 你自己的外置硬盘，自己的NAS, Nextcloud, Owncloud, Cloudreve或者亚马逊的S3。这些基本都是自己托管服务器的选目，需要一些跑服务器的知识。如果不会，咱们还是老老实实用Onedrive吧。 . 下面要说的就是Joplin端到端加密。这个选项需要在设置里开启，并设置一个密码。如果同步到Onedrive或者是Dropbox，这项功能会非常好用。因为任何人除了你自己是打不开你的笔记的。这个选项如果不开启的话，Joplin保存的就是普通的markdown文件。端到端加密实测会影响同步速度。如果追求速度而且有自己的网盘的话，这一项就没必要开了。 . Joplin还给不会用markdown的小伙伴们一个台阶，支持富文本格式编辑。虽然不像office软件那样速度快，仅仅是对markdown的一个转换。但是有总比没有好。 . ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#2-joplin",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#2-joplin",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#2-joplin"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#2-joplin"
   },"46": {
     "doc": "还在花钱做笔记?",
     "title": "3. 思源笔记",
     "content": "https://b3log.org/siyuan/?lang=cn https://gitee.com/siyuan-note/siyuan . 思源笔记是一款国产开源软件，以Markdown为基础，添加了数学公式、图表、流程图、甘特图、时序图、五线谱等，甚至是SQL查询的嵌入。 . 思源的界面更像是VScode和Obsidian的结合，每篇笔记是由tab一样的方法打开的，同时也添加了像Obsdian一样的链接关系图。 . 思源承诺所有本地功能都是免费的，但不支持通过第三方同步盘进行数据同步，可能会导致数据损坏。但是支持第三方云端存储服务，像S3和WebDAV协议。官方的订阅服务以￥148每年，支持端到端加密数据同步和备份和定时微信提醒等。 . 思源有很强大的功能，但是上手可能会有些困难。 . ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#3-%E6%80%9D%E6%BA%90%E7%AC%94%E8%AE%B0",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#3-%E6%80%9D%E6%BA%90%E7%AC%94%E8%AE%B0",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#3-思源笔记"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#3-思源笔记"
   },"47": {
     "doc": "还在花钱做笔记?",
     "title": "总结",
     "content": "几款app都有自己的利弊，Markdown也不是所有人都会用。哪个app最适合你？有空的话就都去尝试一遍吧，这样才能找到最适合自己的。 . 如果你很喜欢其中一个app，我希望你能支持一下开发者，把原来花在其他软件上的钱给他们买杯咖啡就是对这个项目的最大支持！ . https://zhuanlan.zhihu.com/p/186243341 https://www.privacytools.io/#notebook https://www.privacyguides.org/tools/#notebooks . ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#%E6%80%BB%E7%BB%93",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#%E6%80%BB%E7%BB%93",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#总结"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#总结"
   },"48": {
     "doc": "还在花钱做笔记?",
     "title": "还在花钱做笔记?",
     "content": ". ",
-    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/",
+    "url": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/",
     
-    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87%E7%AE%80%E4%BD%93/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/"
+    "relUrl": "/The%20kernel%20of%20freedom%20%E4%B8%AD%E6%96%87/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/"
   }
 }
