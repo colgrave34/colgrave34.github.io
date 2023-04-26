@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The kernel of freedom
+title: The Kernel of Freedom
 nav_order: 2
 has_children: true
 ---

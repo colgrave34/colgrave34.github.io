@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The kernel of freedom 中文
+title: The Kernel of Freedom 中文
 nav_order: 3
 has_children: true
 ---
