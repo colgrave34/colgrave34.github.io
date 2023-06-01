@@ -122,7 +122,7 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Colgrave's Blog © 2022 by Hanqi Xu is licensed under <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\"> Attribution-NonCommercial 4.0 International.</a>"
+footer_content: "Colgrave's Blog 🄯 2022-2023 by Hanqi Xu · Site content is under <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\"> CC BY-SA 4.0</a> · <a href=\"https://codeberg.org/Colgrave/blog\">Site code</a> is under <a href=\"https://www.gnu.org/licenses/gpl-3.0.html/\"> GPLv3</a>"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
