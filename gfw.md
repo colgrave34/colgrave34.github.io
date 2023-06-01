@@ -18,8 +18,8 @@ status: down
 # w3
 us  
 status: up  
-![us1](resources/17c160e79177760af7c9e9255f9b3bdb.png)  
+![us1](/resources/17c1.png)  
 trojan://CqiI45vZoL@zrfwuu.chickenkiller.com:8080?security=tls&type=tcp&headerType=none#zrfwuu.chickenkiller.com  
    
-![us2](resources/e90a3e18f12f0be9483099646c31f197.png)  
+![us2](/resources/e90a.png)  
 trojan://CqiI45vZoL@107.173.144.71:8080?security=tls&type=tcp&headerType=none#zrfwuu.chickenkiller.com  
