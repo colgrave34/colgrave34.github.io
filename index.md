@@ -38,7 +38,7 @@ Mastodon是一个开源的社交网络。可以在那里关注我！
 <a rel="me" href="https://social.linux.pizza/@colgrave">Mastodon</a>{: .btn .btn-outline }  
   
 ## Commission Shop
-[Shop](https://shop.hanqixu.com){: .btn .btn-outline }
+[Shop](https://shop.hanqixu.com){: .btn .btn-outline }  
   
 ## Liberapay
 Donations are welcome!  
