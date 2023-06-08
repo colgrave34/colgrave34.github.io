@@ -2,7 +2,7 @@
 layout: default
 title: MC服务器连接教程和MOD安装
 nav_order: 2
-parent: Tux的自由乐园
+parent: Linux灯塔
 ---
 # MC服务器连接教程和MOD安装
 写的不全，见谅！  
