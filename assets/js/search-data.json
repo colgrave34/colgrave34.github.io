@@ -223,55 +223,111 @@
     
     "relUrl": "/%E5%AE%A2%E5%88%B6%E5%8C%96%E9%94%AE%E7%9B%98%E6%8C%87%E5%8C%97/"
   },"32": {
+    "doc": "Things to do after renting a VPS",
+    "title": "Things to do after rent a VPS",
+    "content": "So I heard you are ready to spin up a Cloud VPS? No problem. But you got some setup to do, such as security and automatic updates. I’m using Debian as the guide here. If you are using different distros, commands are different. | Users and sudo | Disable Root SSH | Firewall ports | Change SSH service port | Unattended Upgrades | At the end | . ",
+    "url": "/Linux%20Lighthouse/vps_post-install/#things-to-do-after-rent-a-vps",
+    
+    "relUrl": "/Linux%20Lighthouse/vps_post-install/#things-to-do-after-rent-a-vps"
+  },"33": {
+    "doc": "Things to do after renting a VPS",
+    "title": "Users and sudo",
+    "content": "Linux is the kind of Operating system that will do what you exactly want them to do. So don’t run commands in root and don’t use root account as your account. Secondly, when you log in as root, every application you run will run with root privileges. This might lead to apps deleting files, creating files in different places that they shouldn’t. And it will break your system. Most VPS company will set the machine up as root and give you the freedom to do anything. So we are going to create a user, give it superuser privileges. adduser yourusername # Add user yourusername usermod -aG sudo yourusername # Put yourusername to sudo group . Now you have your own user! exit the root user and login in as your new user. ",
+    "url": "/Linux%20Lighthouse/vps_post-install/#users-and-sudo",
+    
+    "relUrl": "/Linux%20Lighthouse/vps_post-install/#users-and-sudo"
+  },"34": {
+    "doc": "Things to do after renting a VPS",
+    "title": "Disable Root SSH",
+    "content": "We are going to disable the root user from login using ssh. To ensure more security and reduce attack surface. I’m using vim, you can use nano or other text editor. sudo vim /etc/ssh/sshd_config . When editing the system, configure files needs superuser privileges. In the config file, find the line PermitRootLogin yes, and replace the word yes with no. Save the file and restart ssh. sudo systemctl restart sshd . ",
+    "url": "/Linux%20Lighthouse/vps_post-install/#disable-root-ssh",
+    
+    "relUrl": "/Linux%20Lighthouse/vps_post-install/#disable-root-ssh"
+  },"35": {
+    "doc": "Things to do after renting a VPS",
+    "title": "Firewall ports",
+    "content": "Here we are going to reduce more attack surface by limiting Firewall ports. I use Uncomplicated Firewall (ufw) on my Debian box. Install it by using sudo apt install -y ufw. sudo ufw status . This command will tell you if your firewall is active and list out all the ports that are open. For me, I use this server as a web server and reverse proxy on it. To ensure security, I want to close a port I no longer needed. For example, I want to close port 8448: . sudo ufw deny 8448 sudo ufw reload . Always close ports you are no longer needed. Don’t forget to reload your firewall after setting it up. ",
+    "url": "/Linux%20Lighthouse/vps_post-install/#firewall-ports",
+    
+    "relUrl": "/Linux%20Lighthouse/vps_post-install/#firewall-ports"
+  },"36": {
+    "doc": "Things to do after renting a VPS",
+    "title": "Change SSH service port",
+    "content": "Secure Shell uses port 22. There’s nothing wrong with using this port, but it is too common. It’s really easy to determent if your machine is using SSH or not. The best practice is to change it to another port. Let’s open up SSH’s config file again. Change this port to any ports higher than 3000. Make sure you have that port opened on your firewall, and restart both your SSH service and your firewall. ",
+    "url": "/Linux%20Lighthouse/vps_post-install/#change-ssh-service-port",
+    
+    "relUrl": "/Linux%20Lighthouse/vps_post-install/#change-ssh-service-port"
+  },"37": {
+    "doc": "Things to do after renting a VPS",
+    "title": "Unattended Upgrades",
+    "content": "This is the software that automatic updates your machines when you’re using Debian based systems (Ubuntu, etc…) AutomaticSecurityUpdates . If you are using RHEL, CentOS, AlmaLinux, RockyLinux for fedora. DNF Automatic Fedora Wiki AutoUpdates If you are using openSUSE YaST Online Update . The config file /etc/apt/apt.conf.d/20auto-upgrades can be easily created by run the following command as root: . sudo dpkg-reconfigure -plow unattended-upgrades . Select yes and It should generate the config files automatically. Now we need to edit the config file for the things you want to automatic updates. sudo vim /etc/apt/apt.conf.d/50unattended-upgrades . There are some lines you need to uncomment, for example \"origin=Debian,codename=${distro_codename}-updates\". Uncomment this line will download every new packages, which is what I want my system to stay up to date all the time. You can also just only uncommon the \"Debian-Security\". This will only update for security rollouts. There’s nothing wrong with stay on older packages, it will bring you the best stability. But I wanted my system to be up-to-date. It is all personal preference. Here are some line you can also uncomment: Remove-Unused-Kernel-Packages This will remove the old kernel that is no longer needed. Remove-New-Unused-Dependencies This will remove unused dependencies if a package updated and no longer needed. Remove-Unused Dependencies This will remove unused dependencies. Remove-New-Unused-Dependencies and Remove-Unused Dependencies works the same as command sudo apt autoremove . Last but not least, let’s check if we have done it correctly. sudo cat /etc/apt/apt.conf.d/20auto-upgrades apt-config dump APT::Periodic::Unattended-Upgrade . Both commands should return something like Unattended-Upgrade \"1\";. This indicates that your configuration is correct. ",
+    "url": "/Linux%20Lighthouse/vps_post-install/#unattended-upgrades",
+    
+    "relUrl": "/Linux%20Lighthouse/vps_post-install/#unattended-upgrades"
+  },"38": {
+    "doc": "Things to do after renting a VPS",
+    "title": "At the end",
+    "content": "Even tho we have already set up the automatic updates, I still highly recommend you log in from time to time to check the SELinux log if anything is not running correctly. Thanks for reading! . ",
+    "url": "/Linux%20Lighthouse/vps_post-install/#at-the-end",
+    
+    "relUrl": "/Linux%20Lighthouse/vps_post-install/#at-the-end"
+  },"39": {
+    "doc": "Things to do after renting a VPS",
+    "title": "Things to do after renting a VPS",
+    "content": " ",
+    "url": "/Linux%20Lighthouse/vps_post-install/",
+    
+    "relUrl": "/Linux%20Lighthouse/vps_post-install/"
+  },"40": {
     "doc": "还在花钱做笔记?",
     "title": "开篇",
     "content": "作为学生，尤其是在这个每人带着电脑去上课的年代。挑选笔记软件好像成了一件麻烦事。除了基本功能外: To-do List，表格，图片的插入；还要思考的就是价格。本来就扣扣缩缩的大学零花钱里又要拿出来买软件。 为了让大家摆脱这种状况，我为大家推荐几款开源笔记软件，既能省钱又比印象好用。 . ",
     "url": "/Linux%E7%81%AF%E5%A1%94/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#%E5%BC%80%E7%AF%87",
     
     "relUrl": "/Linux%E7%81%AF%E5%A1%94/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#开篇"
-  },"33": {
+  },"41": {
     "doc": "还在花钱做笔记?",
     "title": "开源",
     "content": "开源是一种写代码的方式。作为程序员，我把源代码开放，让所有人自由使用，这样的话我会得到更多的 Bug 反馈以及业界大佬的指导。而作为用户的我，免费获得了使用权，并且确保软件的透明度。 开源软件，Free and Open Source Software。这里的 Free 是自由的意思。 . 以下笔记软件大部分以 Markdown 格式录入为基础。 . ",
     "url": "/Linux%E7%81%AF%E5%A1%94/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#%E5%BC%80%E6%BA%90",
     
     "relUrl": "/Linux%E7%81%AF%E5%A1%94/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#开源"
-  },"34": {
+  },"42": {
     "doc": "还在花钱做笔记?",
     "title": "Apps",
     "content": " ",
     "url": "/Linux%E7%81%AF%E5%A1%94/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#apps",
     
     "relUrl": "/Linux%E7%81%AF%E5%A1%94/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#apps"
-  },"35": {
+  },"43": {
     "doc": "还在花钱做笔记?",
     "title": "1. Simplenote",
     "content": "https://simplenote.com/ https://github.com/Automattic/simplenote-electron https://sspai.com/post/70059 . SimpleNote是由Automattic公司开发的一款轻量化笔记工具。 . 画面简洁，傻瓜式的用法。电脑上只有左右两个面板，左边笔记列表，右面笔记编辑以及阅览。有相当多的键盘快捷键，以及打印功能。markdown的基本功能都能实现，像超链接，checklist都是支持的。simplenote网站上也有非常好理解markdown的教程。暗色模式和闪光弹模式也是支持的。 . 手机端也是相当的简洁，右下角添加笔记。左边编辑，右边预览。笔记列表和删除的笔记都在左边的工具栏里。 . 笔记的导入非常方便。支持同软件，也就是JSON。文本的导入，TXT和Markdown。还有就是Evernote的导入。对于在用evernote的同学是个福音了 . 值得一提的是，Simplenote有完善的历史版本管理，如果你有文档版本回顾的需求，相信 Simplenote 可以满足你。 唯一不支持的是图片的拖入。软件是支持图片的，但是插入图片外链才能正常预览。 . 剩下要注意的是，Simplenote只有客户端是开源的，服务器不是。正因为这个原因，笔记的同步是以注册一个免费账户的形式完成的。 我现在在国外，不能确定Simplenote在国内服务器的稳定性和速度。有尝试过的小伙伴们可以在评论区分享以下。 . ",
     "url": "/Linux%E7%81%AF%E5%A1%94/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#1-simplenote",
     
     "relUrl": "/Linux%E7%81%AF%E5%A1%94/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#1-simplenote"
-  },"36": {
+  },"44": {
     "doc": "还在花钱做笔记?",
     "title": "2. Joplin",
     "content": "https://joplinapp.org/ https://github.com/laurent22/joplin/ . Joiplin是我现在正在使用的，也是我觉得对于开源方式做的最好的。客户端是完全开源的，官方的服务器虽然不是，但是Joplin的好处就是你那里都可以同步。Dropbox, Onedrive, 你自己的外置硬盘，自己的NAS, Nextcloud, Owncloud, Cloudreve或者亚马逊的S3。这些基本都是自己托管服务器的选目，需要一些跑服务器的知识。如果不会，咱们还是老老实实用Onedrive吧。 . 下面要说的就是Joplin端到端加密。这个选项需要在设置里开启，并设置一个密码。如果同步到Onedrive或者是Dropbox，这项功能会非常好用。因为任何人除了你自己是打不开你的笔记的。这个选项如果不开启的话，Joplin保存的就是普通的markdown文件。端到端加密实测会影响同步速度。如果追求速度而且有自己的网盘的话，这一项就没必要开了。 . Joplin还给不会用markdown的小伙伴们一个台阶，支持富文本格式编辑。虽然不像office软件那样速度快，仅仅是对markdown的一个转换。但是有总比没有好。 . ",
     "url": "/Linux%E7%81%AF%E5%A1%94/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#2-joplin",
     
     "relUrl": "/Linux%E7%81%AF%E5%A1%94/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#2-joplin"
-  },"37": {
+  },"45": {
     "doc": "还在花钱做笔记?",
     "title": "3. 思源笔记",
     "content": "https://b3log.org/siyuan/?lang=cn https://gitee.com/siyuan-note/siyuan . 思源笔记是一款国产开源软件，以Markdown为基础，添加了数学公式、图表、流程图、甘特图、时序图、五线谱等，甚至是SQL查询的嵌入。 . 思源的界面更像是VScode和Obsidian的结合，每篇笔记是由tab一样的方法打开的，同时也添加了像Obsdian一样的链接关系图。 . 思源承诺所有本地功能都是免费的，但不支持通过第三方同步盘进行数据同步，可能会导致数据损坏。但是支持第三方云端存储服务，像S3和WebDAV协议。官方的订阅服务以￥148每年，支持端到端加密数据同步和备份和定时微信提醒等。 . 思源有很强大的功能，但是上手可能会有些困难。 . ",
     "url": "/Linux%E7%81%AF%E5%A1%94/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#3-%E6%80%9D%E6%BA%90%E7%AC%94%E8%AE%B0",
     
     "relUrl": "/Linux%E7%81%AF%E5%A1%94/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#3-思源笔记"
-  },"38": {
+  },"46": {
     "doc": "还在花钱做笔记?",
     "title": "总结",
     "content": "几款app都有自己的利弊，Markdown也不是所有人都会用。哪个app最适合你？有空的话就都去尝试一遍吧，这样才能找到最适合自己的。 . 如果你很喜欢其中一个app，我希望你能支持一下开发者，把原来花在其他软件上的钱给他们买杯咖啡就是对这个项目的最大支持！ . https://zhuanlan.zhihu.com/p/186243341 https://www.privacytools.io/#notebook https://www.privacyguides.org/tools/#notebooks . ",
     "url": "/Linux%E7%81%AF%E5%A1%94/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#%E6%80%BB%E7%BB%93",
     
     "relUrl": "/Linux%E7%81%AF%E5%A1%94/%E8%BF%98%E5%9C%A8%E8%8A%B1%E9%92%B1%E5%81%9A%E7%AC%94%E8%AE%B0/#总结"
-  },"39": {
+  },"47": {
     "doc": "还在花钱做笔记?",
     "title": "还在花钱做笔记?",
     "content": ". ",
