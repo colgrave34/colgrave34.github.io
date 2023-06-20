@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Custom Keyboard 101
 nav_order: 5
 has_children: true

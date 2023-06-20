@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Linux Lighthouse
 nav_order: 3
 has_children: true

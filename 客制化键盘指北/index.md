@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: 客制化键盘指北
 nav_order: 6
 has_children: true
