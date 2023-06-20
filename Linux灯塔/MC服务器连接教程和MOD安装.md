@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: MC服务器连接教程和MOD安装
 nav_order: 2
 parent: Linux灯塔

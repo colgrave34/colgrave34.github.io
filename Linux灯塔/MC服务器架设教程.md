@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: MC服务器架设教程
 nav_order: 1
 parent: Linux灯塔
