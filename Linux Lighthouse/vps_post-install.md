@@ -120,3 +120,12 @@ Both commands should return something like `Unattended-Upgrade "1";`. This indic
 ## At the end
 Even tho we have already set up the automatic updates, I still highly recommend you log in from time to time to check the SELinux log if anything is not running correctly. 
 Thanks for reading! 
+  
+<script src="https://utteranc.es/client.js"
+        repo="C0lgrave34/C0lgrave34.github.io"
+        issue-term="pathname"
+        label="Comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

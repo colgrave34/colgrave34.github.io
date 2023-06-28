@@ -123,3 +123,12 @@ Optifine 可以 Rubidium 和 Oculus 代替，两个加起来效果是和 Optifin
 
 
 *07/31/2022 更新  服务器版本 beta-0.2.2*
+  
+<script src="https://utteranc.es/client.js"
+        repo="C0lgrave34/C0lgrave34.github.io"
+        issue-term="pathname"
+        label="Comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
