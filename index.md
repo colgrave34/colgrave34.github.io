@@ -4,9 +4,9 @@ nav_order: 1
 ---
 # Welcome to Colgrave's Blog
 Welcome to my blog!  
-Feel free to correct me on Codeberg by using a pull request.   
+Feel free to correct me on Github.     
 欢迎来到我的博客!  
-随时在Codeberg用PR纠正我。  
+随时在Github上纠正我。  
 
 ## Series
 ### [**Linux Lighthouse**](/Linux%20Lighthouse/)  
@@ -25,7 +25,7 @@ This 101 course will tell you the ins and outs about Custom keyboards, layouts, 
 ## How to reach me
 Please follow the button to reach out to me.  
 I prefer using email for all my professional work.  
-If you have question, ask me on Matrix or Mastodon.  
+If you have a question, ask me on Matrix, Mastodon or just simply leave a comment under the post.  
 [Contact](https://hanqixu.com/contact/){: .btn .btn-outline }  
   
 ## Commission Shop

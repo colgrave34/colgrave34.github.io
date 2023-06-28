@@ -105,8 +105,8 @@ aux_links:
     - "https://hanqixu.com"
   "少数派":
     - "https://sspai.com/u/11l4rhh4/updates"
-  "View on Codeberg":
-    - "https://codeberg.org/Colgrave/blog"
+  "View on Github":
+    - "https://github.com/C0lgrave34/C0lgrave34.github.io"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
