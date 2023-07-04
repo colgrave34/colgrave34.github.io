@@ -74,7 +74,7 @@ Make sure you have that port opened on your firewall, and restart both your SSH 
 This is the software that automatic updates your machines when you're using Debian based systems (Ubuntu, etc...)  
 [AutomaticSecurityUpdates](https://help.ubuntu.com/community/AutomaticSecurityUpdates)
 
-If you are using RHEL, CentOS, AlmaLinux, RockyLinux for fedora.   
+If you are using RHEL, CentOS, AlmaLinux, RockyLinux or Fedora.   
 [DNF Automatic](https://dnf.readthedocs.io/en/latest/automatic.html)  
 [Fedora Wiki AutoUpdates](https://www.fedoraproject.org/wiki/AutoUpdates)  
 If you are using openSUSE  
