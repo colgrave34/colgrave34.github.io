@@ -80,7 +80,7 @@ If you are using RHEL, CentOS, AlmaLinux, RockyLinux or Fedora.
 If you are using openSUSE  
 [YaST Online Update](https://en.opensuse.org/YaST_Online_Update)
 
-The config file /etc/apt/apt.conf.d/20auto-upgrades can be easily created by run the following command as root: 
+The config file `/etc/apt/apt.conf.d/20auto-upgrades` can be easily created by run the following command as root: 
 ```
 sudo dpkg-reconfigure -plow unattended-upgrades
 ```
