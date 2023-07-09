@@ -35,7 +35,3 @@ If you have a question, ask me on Matrix, Mastodon or just simply leave a commen
 Donations are welcome!  
 <script src="https://liberapay.com/Colgrave/widgets/button.js"></script>
   
-## Public Services
-[![Invidious](/assets/logos/invidious_logo.png)](https://invidious.pendora.io)  
-[![Libreddit](/assets/logos/libreddit_logo.png)](https://libreddit.pendora.io)  
-  
