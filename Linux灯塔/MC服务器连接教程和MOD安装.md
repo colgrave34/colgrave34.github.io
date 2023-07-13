@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MC服务器连接教程和MOD安装
-nav_order: 2
+nav_order: 3
 parent: Linux灯塔
 ---
 # MC服务器连接教程和MOD安装

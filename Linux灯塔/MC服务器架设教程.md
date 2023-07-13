@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MC服务器架设教程
-nav_order: 1
+nav_order: 4
 parent: Linux灯塔
 ---
 这是服务器端架设方法，万一以后没人管了还有救.  
