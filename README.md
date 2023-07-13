@@ -1,5 +1,5 @@
 # Colgrave's blog
-This is the repo for my blog.  
+This is the repo of my blog.  
 Feel free to correct me here by using [Pull request](https://github.com/C0lgrave34/C0lgrave34.github.io/pulls) or [Discussions](https://github.com/C0lgrave34/C0lgrave34.github.io/discussions).  
 
 ## How to reach me
