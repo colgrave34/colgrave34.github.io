@@ -85,7 +85,7 @@ The config file `/etc/apt/apt.conf.d/20auto-upgrades` can be easily created by r
 sudo dpkg-reconfigure -plow unattended-upgrades
 ```
 ![69a9a2fb9e89dd91a3661e30ddb9b03b.png](/assets/69a9a2fb9e89dd91a3661e30ddb9b03b.png)
-Select `yes` and It should generate the config files automatically. 
+Select `Yes` and It should generate the config files automatically. 
 Now we need to edit the config file for the things you want to automatic updates. 
 ```
 sudo vim /etc/apt/apt.conf.d/50unattended-upgrades
@@ -107,7 +107,7 @@ This will remove unused dependencies if a package updated and no longer needed.
 `Remove-Unused Dependencies`  
 This will remove unused dependencies. 
 
-Remove-New-Unused-Dependencies and Remove-Unused Dependencies works the same as command `sudo apt autoremove`
+`Remove-New-Unused-Dependencies` and `Remove-Unused Dependencies` works the same as command `sudo apt autoremove`
 
 Last but not least, let's check if we have done it correctly. 
 ```
