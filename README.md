@@ -8,9 +8,9 @@ I prefer using email for all my professional work.
 If you have a question, ask me on Matrix, Mastodon or just simply leave a comment under the post. 
 
 ## License
-Site content is under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+Site content is under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)  
 Site code is under [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html/)
 
 ## Liberapay
 Donations are welcome!  
-<script src="https://liberapay.com/Colgrave/widgets/button.js"></script>
+https://liberapay.com/Colgrave/donate
