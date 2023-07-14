@@ -11,6 +11,11 @@ If you have a question, ask me on Matrix, Mastodon or just simply leave a commen
 Site content is under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)  
 Site code is under [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html/)
 
-## Liberapay
-Donations are welcome!  
-https://liberapay.com/Colgrave/donate
+## Donations
+Donations are welcome!
+### Liberpay
+https://liberapay.com/Colgrave/donate  
+### Monero
+`41ev5fReKiS5DzmMjastM31DMf3jpdsG9HRD62YxWcBdMxG5xvcVxht1WSD4C4DxkoWFxjikHfZXY6k3KukXKEDsAB4Nb1c`
+### Unstoppable Domains
+https://slowpoct.wallet/
