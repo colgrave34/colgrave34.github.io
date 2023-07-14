@@ -31,7 +31,11 @@ If you have a question, ask me on Matrix, Mastodon or just simply leave a commen
 ## Commission Shop
 [Shop](https://shop.hanqixu.com){: .btn .btn-outline }  
   
-## Liberapay
-Donations are welcome!  
-<script src="https://liberapay.com/Colgrave/widgets/button.js"></script>
-  
+## Donations
+Donations are welcome!
+### Liberpay
+<script src="https://liberapay.com/Colgrave/widgets/button.js"></script>  
+### Monero
+`41ev5fReKiS5DzmMjastM31DMf3jpdsG9HRD62YxWcBdMxG5xvcVxht1WSD4C4DxkoWFxjikHfZXY6k3KukXKEDsAB4Nb1c`
+### Unstoppable Domains
+https://slowpoct.wallet/
