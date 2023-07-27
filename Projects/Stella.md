@@ -19,7 +19,7 @@ But it didn't satisfy me... (Nothing do)
 I would like to use only the controller to navigate without pulling out my Logitech K400.  
 
 ![plasma-bigscreen](https://plasma-bigscreen.org/img/screenshot-1.png)
-Plasma Bigscreen, image copylefted by KDE Community
+*Plasma Bigscreen, image copylefted by KDE Community*
 
 I find out [Plasma Bigscreen](https://plasma-bigscreen.org/). It looks great, feels fantastic. While it still in devolpment, I can use it no problem on Arch. And only arch...  
 At the moment of writing, Plasma Bigscreen only support on postmarketOS and Manjaro. So this is why I decide using Arch and AUR.  
@@ -41,3 +41,12 @@ I just learned basic of Bash in an afternoon for this project. The code is not g
 I will move all the Yes and No questions to the front and put the installation processes at the end together. So we don't have to sit there for the next prompt.  
 
 I'll also add full Flatpak support. Retroarch and Steam are kinda broken from the Arch repo.
+
+<script src="https://utteranc.es/client.js"
+        repo="C0lgrave34/C0lgrave34.github.io"
+        issue-term="pathname"
+        label="Comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

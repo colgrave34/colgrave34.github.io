@@ -26,3 +26,12 @@ It is not in development right now, but I still have plans for the future like d
 ## How it looks
 ![photo1](https://user-images.githubusercontent.com/31970387/197358685-8ffcadec-e2ad-4a4f-a97d-a06bc570094f.jpg)
 ![photo2](https://user-images.githubusercontent.com/31970387/197358686-c88af996-5bb9-4c59-abfc-26fb27905f3f.jpg)
+
+<script src="https://utteranc.es/client.js"
+        repo="C0lgrave34/C0lgrave34.github.io"
+        issue-term="pathname"
+        label="Comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
