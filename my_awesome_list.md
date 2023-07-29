@@ -14,20 +14,20 @@ For example:
 So I thought, how about I made my own Awesome List. I have a lot of software tools I used every day, privacy focused or just good tools overall, mostly are open source. 
 
 *This is not a formal Awesome List* Just so you know.  
-**This is still under construction**
+
 
 # Catalogs
 - Operating Systems
         - Linus Distros
         - Windows
+- Networking
+        - DNS
+        - VPN
 - Sufring on the web
         - Web Browsers
         - Search Engines
         - Browser Extensions
         - Frontends
-- Networking
-        - DNS
-        - VPN
 - Email
         - Email Clients
         - Email Aliasing Provider
@@ -40,10 +40,9 @@ So I thought, how about I made my own Awesome List. I have a lot of software too
         - Image/Digital Drawing
         - CAD & 3D modoling Tools
 - Gaming
-- Android related
+- Mobile related
         - Third party ROM
         - Apps
-
 
 
 # Operating Systems
@@ -67,10 +66,26 @@ If you want a nearly vanilla distro, Fedora is your choise.
 Server grade distro can be on your PC. YaST can be really easy for new users. 
 
 ## Windows
+[Sophia Script for Windows](https://github.com/farag2/Sophia-Script-for-Windows)  
+This script allows you delete bloware, disable telemetry and more. 
+
 [Here](https://wiki.installgentoo.com/wiki/Windows_10) is why I prefer Linux.  
-But, life isn't perfect. Sometime we have to use Windows, either in school or work. 
+But, life isn't perfect. Sometime we have to use Windows.  
 We cannot get rid of every possible problems with Windows, but we can make it better.  
-[Sophia Script for Windows](https://github.com/farag2/Sophia-Script-for-Windows) allows you delete bloware, disable telemetry and more. 
+
+
+# Networking
+## DNS
+[Quad9](https://www.quad9.net/)
+
+[Pi-hole](https://pi-hole.net/)
+
+## VPN
+Mullvad
+Wireguard
+Trojan
+nekobox
+
 
 # Surfing on the web
 ## Web Browsers
@@ -83,16 +98,22 @@ We cannot get rid of every possible problems with Windows, but we can make it be
 ## Search Engines
 [Brave Search](https://search.brave.com/)
 [SearXNG](https://docs.searxng.org/)
-[List of instances](https://searx.space/)
+        [List of instances](https://searx.space/)
 
 ## Browser extensions
-uBlock Origin(https://ublockorigin.com/)
-Vimium(https://vimium.github.io/)
-Language tools(https://languagetool.org/)
-Sponsor blocks(https://sponsor.ajay.app/)
+[uBlock Origin](https://ublockorigin.com/)
+[Vimium](https://vimium.github.io/)
+[Language tools](https://languagetool.org/)
+[Sponsor blocks](https://sponsor.ajay.app/)
+
+## Socialmedia
+Peertube
+Mastodon
+Misskey
+Pixelfed
 
 ## Frontends
-### Youtube
+### Youtube frontends
 Invidious
 Newpipe
 Freetube
@@ -101,24 +122,12 @@ Yattee
 ### Reddit
 libreddit
 
-# Networking
-## DNS
-pi-hole
-quad9
-
-## VPN
-Mullvad
-Wireguard
-Trojan
-nekobox
-
 # Email
 ## Email client
 Thunderbird
-
+K-9 Mail
 ## Email aliasing provider
-SImplelogin
-
+Simplelogin
 
 
 # Productivity
@@ -142,7 +151,7 @@ VS Codium
 
 
 # Creative Tools
-## Image/DIgital Drawing
+## Image/Digital Drawing
 GIMP
 krita
 Darktable
@@ -162,9 +171,30 @@ heroic games
 retroarch
 primis launcher
 
-Android OS
+
+# Mobile related
+## Android Custom Roms
 [LineageOS](https://lineageos.org/)
 [CalyxOS](https://calyxos.org/)
+
+## Apps
+F-Droid
+Aurora Store
+AntennaPod
+Breezy Weather
+Catima
+Currencies
+DAVx5
+Element
+Fcitx5
+Feeder
+FitoTrack
+Kotatsu
+KOreader
+LoopHabit
+Termux
+Tusky
+ViMusic
 
 <script src="https://utteranc.es/client.js"
         repo="C0lgrave34/C0lgrave34.github.io"
