@@ -82,34 +82,60 @@ Non-profit DNS resolver, promise for user privacy and protect user from malware 
 [Pi-hole](https://pi-hole.net/)  
 The self-host option for DNS, provide great ad blocking feature. 
 
-### VPN
+### VPN & Proxy
 [Mullvad](https://mullvad.net)  
+Mullvad is a commercial VPN service based in Sweden. 
 
-Wireguard
-Trojan
-nekobox
+[Wireguard](https://www.wireguard.com/)  
+Simple and fast modern self-hosted VPN.  
+
+[Trojan](https://trojan-gfw.github.io/trojan/)  
+An unidentifiable mechanism that helps you bypass GFW. 
+
+[NekoRay](https://github.com/MatsuriDayo/nekoray)  
+Qt based cross-platform GUI proxy configuration manager. 
+
+[NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid)  
+sing-box / universal proxy toolchain for Android. 
 
 
 ## Surfing on the web
 ### Web Browsers
-[Firefox](https://www.mozilla.org/en-US/firefox/new/)
+[Firefox](https://www.mozilla.org/en-US/firefox/new/)  
+The only non-Chromium based, open source web browser. 
 
-[Brave](https://brave.com/)
+[Brave](https://brave.com/)  
+Zero configuration browser with Ad blocker build in.  
+Apart from all the Web3 feature, it's a solid browser for someone that don't really want to mess with their browser. 
 
-[ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)
+[ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)  
+Vanilla Chromium but without all Google dependency.  
 
 ### Search Engines
-[Brave Search](https://search.brave.com/)
+[Brave Search](https://search.brave.com/)  
+Independed search engine by Brave Software, Inc. 
+
 [SearXNG](https://docs.searxng.org/)
-  [List of instances](https://searx.space/)
+Open source, self-hostable, privacy-respecting metasearch engine.  
+It uses other search engine's result and combine them together.  
+[List of SearXNG instances](https://searx.space/)
+
 
 ### Browser extensions
-[uBlock Origin](https://ublockorigin.com/)
-[Vimium](https://vimium.github.io/)
-[Language tools](https://languagetool.org/)
-[Sponsor blocks](https://sponsor.ajay.app/)
+[uBlock Origin](https://ublockorigin.com/)  
+Free and open-source ad content blocker.  
+It doesn't only block ads, also can [block YouTube short](https://letsblock.it/filters/youtube-shorts). 
 
-### Socialmedia
+[Vimium](https://vimium.github.io/)  
+Use your browser like you use Vim. 
+
+[Language tools](https://languagetool.org/)  
+Spelling and grammar checker. 
+
+[Sponsor blocks](https://sponsor.ajay.app/)  
+Skip sponsored segments on YouTube and other video platform. 
+
+### Social media / Fediverse
 Peertube
 Mastodon
 Misskey
