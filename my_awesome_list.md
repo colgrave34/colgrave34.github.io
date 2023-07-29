@@ -18,31 +18,31 @@ So I thought, how about I made my own Awesome List. I have a lot of software too
 
 # Catalogs
 - Operating Systems
-        - Linus Distros
-        - Windows
+  - Linus Distros
+  - Windows
 - Networking
-        - DNS
-        - VPN
+  - DNS
+  - VPN
 - Sufring on the web
-        - Web Browsers
-        - Search Engines
-        - Browser Extensions
-        - Frontends
+  - Web Browsers
+  - Search Engines
+  - Browser Extensions
+  - Frontends
 - Email
-        - Email Clients
-        - Email Aliasing Provider
+  - Email Clients
+  - Email Aliasing Provider
 - Producticity Tools
-        - Office Tools
-        - Notetaking
-        - Google drive alternative
-        - text editing
+  - Office Tools
+  - Notetaking
+  - Google drive alternative
+  - text editing
 - Creative Tools
-        - Image/Digital Drawing
-        - CAD & 3D modoling Tools
+  - Image/Digital Drawing
+  - CAD & 3D modoling Tools
 - Gaming
 - Mobile related
-        - Third party ROM
-        - Apps
+  - Third party ROM
+  - Apps
 
 
 # Operating Systems
@@ -126,6 +126,7 @@ libreddit
 ## Email client
 Thunderbird
 K-9 Mail
+
 ## Email aliasing provider
 Simplelogin
 
