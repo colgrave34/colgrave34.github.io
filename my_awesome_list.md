@@ -13,7 +13,8 @@ For example:
 
 So I thought, how about I made my own Awesome List. I have a lot of software tools I used every day, privacy focused or just good tools overall, mostly are open source. 
 
-*This is not a formal Awesome List* Just so you know. 
+*This is not a formal Awesome List* Just so you know.  
+**This is still under construction**
 
 # Operating Systems
 ## Linux Distros
