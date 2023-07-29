@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: My Awesome List
 nav_order: 8
 ---
@@ -13,10 +13,10 @@ For example:
 
 So I thought, how about I made my own Awesome List. I have a lot of software tools I used every day, privacy focused or just good tools overall, mostly are open source. 
 
-*This is not a formal Awesome List* Just so you know.  
+*This is not a formal Awesome List* Just so you know. 
 
 
-# Catalogs
+## Catalogs
 - Operating Systems
   - Linus Distros
   - Windows
@@ -45,119 +45,127 @@ So I thought, how about I made my own Awesome List. I have a lot of software too
   - Apps
 
 
-# Operating Systems
-## Linux Distros
+## Operating Systems
+### Linux Distros
 Here are Distros that I recommend for new users
-### [Linux Mint](https://linuxmint.com/)
+#### [Linux Mint](https://linuxmint.com/)
 The "just works" distro.  
 If you start your Linux journy, this might be the best distro to try out. 
 
-### [Pop!_OS](https://pop.system76.com/)
+#### [Pop!_OS](https://pop.system76.com/)
 It's developed by System76.  
 I have used it for at least 2 years, super solet distro.  
 Games run prefectly without much tweaking.  
 Most of the problem on Ubuntu have fixed here. 
 
-### [Fedora Linux](https://fedoraproject.org/)
+#### [Fedora Linux](https://fedoraproject.org/)
 My favourite and my daily right now. 
 If you want a nearly vanilla distro, Fedora is your choise. 
 
-### [OpenSUSE](https://www.opensuse.org/)
+#### [OpenSUSE](https://www.opensuse.org/)
 Server grade distro can be on your PC. YaST can be really easy for new users. 
 
-## Windows
+### Windows
 [Sophia Script for Windows](https://github.com/farag2/Sophia-Script-for-Windows)  
 This script allows you delete bloware, disable telemetry and more. 
 
-[Here](https://wiki.installgentoo.com/wiki/Windows_10) is why I prefer Linux.  
+[Here](https://wiki.installgentoo.com/images/2/29/Windows10.jpg) is why I prefer Linux.  
 But, life isn't perfect. Sometime we have to use Windows.  
 We cannot get rid of every possible problems with Windows, but we can make it better.  
 
 
-# Networking
-## DNS
+## Networking
+### DNS
 [Quad9](https://www.quad9.net/)
 
 [Pi-hole](https://pi-hole.net/)
 
-## VPN
+### VPN
 Mullvad
 Wireguard
 Trojan
 nekobox
 
 
-# Surfing on the web
-## Web Browsers
+## Surfing on the web
+### Web Browsers
 [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
 [Brave](https://brave.com/)
 
 [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)
 
-## Search Engines
+### Search Engines
 [Brave Search](https://search.brave.com/)
 [SearXNG](https://docs.searxng.org/)
         [List of instances](https://searx.space/)
 
-## Browser extensions
+### Browser extensions
 [uBlock Origin](https://ublockorigin.com/)
 [Vimium](https://vimium.github.io/)
 [Language tools](https://languagetool.org/)
 [Sponsor blocks](https://sponsor.ajay.app/)
 
-## Socialmedia
+### Socialmedia
 Peertube
 Mastodon
 Misskey
 Pixelfed
 
-## Frontends
-### Youtube frontends
+### Frontends
 Invidious
-Newpipe
 Freetube
+Newpipe
 Yattee
-
-### Reddit
 libreddit
 
-# Email
-## Email client
+## Email
+### Provider
+Disroot.org
+mail.com
+
+### Email client
 Thunderbird
 K-9 Mail
 
-## Email aliasing provider
+### Email aliasing provider
 Simplelogin
 
 
-# Productivity
-## Office Tools
+## Realtime communication
+singal
+session
+matrix
+element
+
+
+## Productivity
+### Office Tools
 LibreOffice
 OpenOffice
 
-## Notetaking
+### Notetaking
 Joplin
 Simplenote
 Obsidian
 思源笔记
 
-## Google Drive alternattive
+### Google Drive alternattive
 Nextcloud
 Owncloud
 
-## Text Editing
+### Text Editing
 Vim
 VS Codium
 
 
-# Creative Tools
-## Image/Digital Drawing
+## Creative Tools
+### Image/Digital Drawing
 GIMP
 krita
 Darktable
 
-## CAD & 3D modoling Tools
+### CAD & 3D modoling Tools
 Blender
 FreeCAD
 Openscad
@@ -165,7 +173,7 @@ librecad
 kicad
 
 
-# Gaming
+## Gaming
 Protonup-qt
 Lutris
 heroic games
@@ -173,12 +181,12 @@ retroarch
 primis launcher
 
 
-# Mobile related
-## Android Custom Roms
+## Mobile related
+### Android Custom Roms
 [LineageOS](https://lineageos.org/)
 [CalyxOS](https://calyxos.org/)
 
-## Apps
+### Apps
 F-Droid
 Aurora Store
 AntennaPod
@@ -186,7 +194,6 @@ Breezy Weather
 Catima
 Currencies
 DAVx5
-Element
 Fcitx5
 Feeder
 FitoTrack
