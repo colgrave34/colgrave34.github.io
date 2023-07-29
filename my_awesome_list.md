@@ -8,13 +8,43 @@ nav_order: 8
 
 For example: 
 - [List of Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
-- [List of Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting)
-- [List of Awesome Mac softwares](https://github.com/jaywcjlove/awesome-mac)
+- [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting)
+- [Awesome Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi)
 
 So I thought, how about I made my own Awesome List. I have a lot of software tools I used every day, privacy focused or just good tools overall, mostly are open source. 
 
 *This is not a formal Awesome List* Just so you know.  
 **This is still under construction**
+
+# Catalogs
+- Operating Systems
+        - Linus Distros
+        - Windows
+- Sufring on the web
+        - Web Browsers
+        - Search Engines
+        - Browser Extensions
+        - Frontends
+- Networking
+        - DNS
+        - VPN
+- Email
+        - Email Clients
+        - Email Aliasing Provider
+- Producticity Tools
+        - Office Tools
+        - Notetaking
+        - Google drive alternative
+        - text editing
+- Creative Tools
+        - Image/Digital Drawing
+        - CAD & 3D modoling Tools
+- Gaming
+- Android related
+        - Third party ROM
+        - Apps
+
+
 
 # Operating Systems
 ## Linux Distros
@@ -40,7 +70,7 @@ Server grade distro can be on your PC. YaST can be really easy for new users.
 [Here](https://wiki.installgentoo.com/wiki/Windows_10) is why I prefer Linux.  
 But, life isn't perfect. Sometime we have to use Windows, either in school or work. 
 We cannot get rid of every possible problems with Windows, but we can make it better.  
-[**Sophia Script for Windows**](https://github.com/farag2/Sophia-Script-for-Windows) allows you delete bloware, disable telemetry and more. 
+[Sophia Script for Windows](https://github.com/farag2/Sophia-Script-for-Windows) allows you delete bloware, disable telemetry and more. 
 
 # Surfing on the web
 ## Web Browsers
@@ -125,7 +155,7 @@ librecad
 kicad
 
 
-# Linux Gaming
+# Gaming
 Protonup-qt
 Lutris
 heroic games
