@@ -160,6 +160,10 @@ K-9 Mail
 ### Email aliasing provider
 Simplelogin
 
+## RSS
+Thunderbird
+Feeder
+Kill the newsletter!
 
 ## Realtime communication
 singal
@@ -224,7 +228,6 @@ Catima
 Currencies
 DAVx5
 Fcitx5
-Feeder
 FitoTrack
 Kotatsu
 KOreader
