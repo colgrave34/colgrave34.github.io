@@ -48,21 +48,21 @@ So I thought, how about I made my own Awesome List. I have a lot of software too
 ## Operating Systems
 ### Linux Distros
 Here are Distros that I recommend for new users
-#### [Linux Mint](https://linuxmint.com/)
+[Linux Mint](https://linuxmint.com/)
 The "just works" distro.  
 If you start your Linux journey, this might be the best distro to try out. 
 
-#### [Pop!_OS](https://pop.system76.com/)
+[Pop!_OS](https://pop.system76.com/)  
 It's developed by [System76](https://system76.com/).  
 I have used it for at least 2 years, super solid distro.  
 Games run perfectly without much tweaking.  
 Most of the problem on Ubuntu have fixed here. 
 
-#### [Fedora Linux](https://fedoraproject.org/)
+[Fedora Linux](https://fedoraproject.org/)  
 My favorite and my daily right now.  
 If you want a nearly vanilla distro, Fedora is your choice. 
 
-#### [OpenSUSE](https://www.opensuse.org/)
+[OpenSUSE](https://www.opensuse.org/)  
 Server grade distro can be on your PC. YaST can be really easy for new users. 
 
 ### Windows
@@ -136,17 +136,16 @@ Spelling and grammar checker.
 Skip sponsored segments on YouTube and other video platform. 
 
 ### Social media / Fediverse
-Peertube
-Mastodon
-Misskey
-Pixelfed
+[Mastodon](https://joinmastodon.org/)  
+[Misskey](https://join.misskey.page/)  
+[Pixelfed](https://pixelfed.org/)  
+[Peertube](https://joinpeertube.org/)  
 
 ### Frontends
-Invidious
-Freetube
-Newpipe
-Yattee
-libreddit
+[Invidious]()  
+[Freetube]()  
+[Newpipe]()  
+[Yattee]()  
 
 ## Email
 ### Provider
@@ -171,6 +170,16 @@ session
 matrix
 element
 
+## Password Managers
+Bitwarden
+KeePassXC
+KeePassDX
+
+## Video Player
+vlc
+
+## Git provider
+codeberg
 
 ## Productivity
 ### Office Tools
@@ -213,7 +222,6 @@ heroic games
 retroarch
 primis launcher
 
-
 ## Mobile related
 ### Android Custom Roms
 [LineageOS](https://lineageos.org/)
@@ -235,6 +243,11 @@ LoopHabit
 Termux
 Tusky
 ViMusic
+
+# Router Firmaware
+OpenWrt
+OPNsense 
+pfSense
 
 <script src="https://utteranc.es/client.js"
         repo="C0lgrave34/C0lgrave34.github.io"
