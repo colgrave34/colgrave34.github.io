@@ -2,7 +2,7 @@
 layout: post
 title: Creative Tools
 nav_order: 6
-parent: My Awesome List
+parent: My Awesome Lists
 ---
 ## Creative Tools
 ### Image/Digital Drawing

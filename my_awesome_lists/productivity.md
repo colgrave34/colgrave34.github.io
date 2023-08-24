@@ -2,7 +2,7 @@
 layout: post
 title: Productivity
 nav_order: 5
-parent: My Awesome List
+parent: My Awesome Lists
 ---
 ## Productivity
 ### Office Tools

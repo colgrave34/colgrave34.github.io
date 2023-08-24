@@ -2,7 +2,7 @@
 layout: post
 title: Operating Systems
 nav_order: 1
-parent: My Awesome List
+parent: My Awesome Lists
 ---
 # Operating Systems
 ## Desktop Linux Distros

@@ -2,7 +2,7 @@
 layout: post
 title: Surfing on the web
 nav_order: 3
-parent: My Awesome List
+parent: My Awesome Lists
 ---
 ## Surfing on the web
 ### Web Browsers

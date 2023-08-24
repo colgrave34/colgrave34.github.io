@@ -2,7 +2,7 @@
 layout: post
 title: Networking
 nav_order: 2
-parent: My Awesome List
+parent: My Awesome Lists
 ---
 # Networking
 ## Router Firmaware
