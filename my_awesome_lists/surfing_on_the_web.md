@@ -38,3 +38,12 @@ Spelling and grammar checker.
 
 [Sponsor blocks](https://sponsor.ajay.app/)  
 Skip sponsored segments on YouTube and other video platform. 
+
+<script src="https://utteranc.es/client.js"
+        repo="C0lgrave34/C0lgrave34.github.io"
+        issue-term="pathname"
+        label="Comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

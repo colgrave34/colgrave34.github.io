@@ -11,24 +11,33 @@ Here are desktop distros that I recommend for new users
 The "just works" distro.  
 If you start your Linux journey, this might be the best distro to try out. 
 
-### [Pop!_OS](https://pop.system76.com/)  
+### [Pop!_OS](https://pop.system76.com/)
 It's developed by [System76](https://system76.com/).  
 I have used it for at least 2 years, super solid distro.  
 Games run perfectly without much tweaking.  
 Most of the problem on Ubuntu have fixed here. 
 
-### [Fedora Linux](https://fedoraproject.org/)  
+### [Fedora Linux](https://fedoraproject.org/)
 My favorite and my daily right now.  
 If you want a nearly vanilla distro, Fedora is your choice. 
 
-### [OpenSUSE](https://www.opensuse.org/)  
-Server grade distro can be on your PC. YaST can be really easy for new users. 
+### [OpenSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/)
+OpenSUSE Tumbleweed is a stable rolling release distro with the newish packages. YaST can be really easy for new users. 
 
 ## Server Linux Distros
-Debian
-AlmaLinux
-Rocky Linux
-OpenSUSE
+### [Debian](https://www.debian.org/)
+You can't go wrong with Debian.  
+It's known as the most stable community distro by running old packages. 
+
+### [AlmaLinux](https://almalinux.org/)
+AlmaLinux is a community owned and governed enterprise Linux distribution.  
+It is ABI compatible with Red Hat Enterprise Linux. 
+
+### [Rocky Linux](https://rockylinux.org/)
+Rocky Linux is an enterprise operating system designed to be 100% bug-for-bug compatible with Red Hat Enterprise Linux. 
+
+### [OpenSUSE](https://get.opensuse.org/leap/)
+OpenSUSE Leap uses source from SUSE Linux Enterprise, which gives a enterprise level of stability to your homelab. 
 
 ## Windows
 ### [Sophia Script for Windows](https://github.com/farag2/Sophia-Script-for-Windows)  
