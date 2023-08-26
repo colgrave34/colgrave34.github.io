@@ -35,7 +35,7 @@ sudo vim /etc/ssh/sshd_config
 ```
 When editing the system, configure files needs superuser privileges.  
 In the config file, find the line `PermitRootLogin yes`, and replace the word `yes` with `no`. 
-![a72b9315090d1ac9020ee4f88c8b2ff0.png](/assets/a72b9315090d1ac9020ee4f88c8b2ff0.png)
+![a72b9315090d1ac9020ee4f88c8b2ff0.png](/assets/a72b9315090d1ac9020ee4f88c8b2ff0.webp)
 Save the file and restart ssh.
 ```
 sudo systemctl restart sshd
@@ -49,7 +49,7 @@ Install it by using `sudo apt install -y ufw`.
 sudo ufw status
 ```
 This command will tell you if your firewall is active and list out all the ports that are open. 
-![a1a25ea15a3be36e5fb16d599c23b4b3.png](/assets/a1a25ea15a3be36e5fb16d599c23b4b3.png)
+![a1a25ea15a3be36e5fb16d599c23b4b3.png](/assets/a1a25ea15a3be36e5fb16d599c23b4b3.webp)
 For me, I use this server as a web server and reverse proxy on it. 
 
 To ensure security, I want to close a port I no longer needed.  
@@ -65,7 +65,7 @@ Don't forget to reload your firewall after setting it up.
 Secure Shell uses port 22. There's nothing wrong with using this port, but it is too common. It's really easy to determent if your machine is using SSH or not. The best practice is to change it to another port. 
 
 Let's open up SSH's config file again. 
-![4b9e1e28a98289be53edc3ab082565af.png](/assets/4b9e1e28a98289be53edc3ab082565af.png)
+![4b9e1e28a98289be53edc3ab082565af.png](/assets/4b9e1e28a98289be53edc3ab082565af.webp)
 Change this port to any ports higher than 3000. 
 
 Make sure you have that port opened on your firewall, and restart both your SSH service and your firewall. 
@@ -84,13 +84,13 @@ The config file `/etc/apt/apt.conf.d/20auto-upgrades` can be easily created by r
 ```
 sudo dpkg-reconfigure -plow unattended-upgrades
 ```
-![69a9a2fb9e89dd91a3661e30ddb9b03b.png](/assets/69a9a2fb9e89dd91a3661e30ddb9b03b.png)
+![69a9a2fb9e89dd91a3661e30ddb9b03b.png](/assets/69a9a2fb9e89dd91a3661e30ddb9b03b.webp)
 Select `Yes` and It should generate the config files automatically. 
 Now we need to edit the config file for the things you want to automatic updates. 
 ```
 sudo vim /etc/apt/apt.conf.d/50unattended-upgrades
 ```
-![dc8b2631c664f924196a7d39e45b9035.png](/assets/dc8b2631c664f924196a7d39e45b9035.png)
+![dc8b2631c664f924196a7d39e45b9035.png](/assets/dc8b2631c664f924196a7d39e45b9035.webp)
 There are some lines you need to uncomment, for example 
 `"origin=Debian,codename=${distro_codename}-updates"`.  
 Uncomment this line will download every new packages, which is what I want my system to stay up to date all the time.  
@@ -98,7 +98,7 @@ You can also just only uncommon the `"Debian-Security"`. This will only update f
 
 There's nothing wrong with stay on older packages, it will bring you the best stability. But I wanted my system to be up-to-date. It is all personal preference.  
 
-![9739e5a649c89fb3bf0810349b84f457.png](/assets/9739e5a649c89fb3bf0810349b84f457.png)
+![9739e5a649c89fb3bf0810349b84f457.png](/assets/9739e5a649c89fb3bf0810349b84f457.webp)
 Here are some line you can also uncomment:  
 `Remove-Unused-Kernel-Packages`  
 This will remove the old kernel that is no longer needed.  
@@ -114,7 +114,7 @@ Last but not least, let's check if we have done it correctly.
 sudo cat /etc/apt/apt.conf.d/20auto-upgrades
 apt-config dump APT::Periodic::Unattended-Upgrade
 ```
-![4316a50179e1fe474a1774f5f492d4df.png](/assets/4316a50179e1fe474a1774f5f492d4df.png)
+![4316a50179e1fe474a1774f5f492d4df.png](/assets/4316a50179e1fe474a1774f5f492d4df.webp)
 Both commands should return something like `Unattended-Upgrade "1";`. This indicates that your configuration is correct. 
 
 ## At the end

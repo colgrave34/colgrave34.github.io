@@ -35,7 +35,7 @@ sudo vim /etc/ssh/sshd_config
 ```
 在编辑系统配置文件时，需要你的superuser权限。这里我们用到了`sudo`。
 在配置文件中，找到 `PermitRootLogin yes` 这一行，将 `yes` 替换成 `no`。
-![a72b9315090d1ac9020ee4f88c8b2ff0.png](/assets/a72b9315090d1ac9020ee4f88c8b2ff0.png)
+![a72b9315090d1ac9020ee4f88c8b2ff0.png](/assets/a72b9315090d1ac9020ee4f88c8b2ff0.webp)
 保存文件并重启SSH服务。
 ```
 sudo systemctl restart sshd
@@ -49,7 +49,7 @@ sudo systemctl restart sshd
 sudo ufw status
 ```
 这个命令会显示防火墙是否激活，并列出所有开放的端口。
-![a1a25ea15a3be36e5fb16d599c23b4b3.png](/assets/a1a25ea15a3be36e5fb16d599c23b4b3.png)
+![a1a25ea15a3be36e5fb16d599c23b4b3.png](/assets/a1a25ea15a3be36e5fb16d599c23b4b3.webp)
 这个盒子现在在跑一个 Web Server。  
 打个比方，我不再需要端口8448。
 ```
@@ -61,7 +61,7 @@ sudo ufw reload
 ## 更换SSH端口
 Secure Shell 默认使用端口22。唯一不好的一点是这个端口太常用了，其他人很轻松的就可以知道你在用 SSH。  
 让我们再次打开SSH配置
-![4b9e1e28a98289be53edc3ab082565af.png](/assets/4b9e1e28a98289be53edc3ab082565af.png)
+![4b9e1e28a98289be53edc3ab082565af.png](/assets/4b9e1e28a98289be53edc3ab082565af.webp)
 可以把这个端口改为高于3000的任何端口。  
 别忘了防火墙凿洞。
 
@@ -79,18 +79,18 @@ Secure Shell 默认使用端口22。唯一不好的一点是这个端口太常�
 ```
 sudo dpkg-reconfigure -plow unattended-upgrades
 ```
-![69a9a2fb9e89dd91a3661e30ddb9b03b.png](/assets/69a9a2fb9e89dd91a3661e30ddb9b03b.png)
+![69a9a2fb9e89dd91a3661e30ddb9b03b.png](/assets/69a9a2fb9e89dd91a3661e30ddb9b03b.webp)
 现在可以编辑配置了
 ```
 sudo vim /etc/apt/apt.conf.d/50unattended-upgrades
 ```
-![dc8b2631c664f924196a7d39e45b9035.png](/assets/dc8b2631c664f924196a7d39e45b9035.png)
+![dc8b2631c664f924196a7d39e45b9035.png](/assets/dc8b2631c664f924196a7d39e45b9035.webp)
 系统默认是只进行安全更新，像软件更新并不是自动的。  
 如果需要，uncomment 想要的更新就好。  
 比如 `"origin=Debian,codename=${distro_codename}-updates"` 这一行就是普通的软件更新。  
 跑“过期”的软件并没任何坏处，能保持最好的稳定性。（这里指的并不是安全更新）看个人喜好了。 
 
-![9739e5a649c89fb3bf0810349b84f457.png](/assets/9739e5a649c89fb3bf0810349b84f457.png)
+![9739e5a649c89fb3bf0810349b84f457.png](/assets/9739e5a649c89fb3bf0810349b84f457.webp)
 可选更新  
 `Remove-Unused-Kernel-Packages`  
 删除不再需要的旧内核。  
@@ -106,7 +106,7 @@ sudo vim /etc/apt/apt.conf.d/50unattended-upgrades
 sudo cat /etc/apt/apt.conf.d/20auto-upgrades
 apt-config dump APT::Periodic::Unattended-Upgrade
 ```
-![4316a50179e1fe474a1774f5f492d4df.png](/assets/4316a50179e1fe474a1774f5f492d4df.png)
+![4316a50179e1fe474a1774f5f492d4df.png](/assets/4316a50179e1fe474a1774f5f492d4df.webp)
 
 ## At the end
 虽然设置了自动更新，但我还是建议时不时登上去看一眼，查查 SELinux 的 log。  
