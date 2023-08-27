@@ -18,7 +18,7 @@ Two controllers, running SteamOS, that will be the best little HTPC for me.
 But it didn't satisfy me... (Nothing do)  
 I would like to use only the controller to navigate without pulling out my Logitech K400.  
 
-![plasma-bigscreen](https://plasma-bigscreen.org/img/screenshot-1.png)
+![plasma-bigscreen](/assets/screenshot-1.webp)
 *Plasma Bigscreen, image copylefted by KDE Community*
 
 I find out [Plasma Bigscreen](https://plasma-bigscreen.org/). It looks great, feels fantastic. While it still in devolpment, I can use it no problem on Arch. And only arch...  
