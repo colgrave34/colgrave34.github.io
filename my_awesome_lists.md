@@ -104,35 +104,81 @@ sing-box / universal proxy tool chain for Android.
 ### [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 The only non-Chromium based, open source web browser. 
 
-### [Brave](https://brave.com/)  
+### [Brave](https://brave.com/)
 Zero configuration browser with Ad blocker build in.  
 Apart from all the Web3 feature, it's a solid browser for someone that don't really want to mess with their browser. 
 
-### [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)  
-Vanilla Chromium but without all Google dependency.  
+### [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)
+Vanilla Chromium but without all Google dependency. 
 
 ## Search Engines
-### [Brave Search](https://search.brave.com/)  
-Independed search engine by Brave Software, Inc. 
+### [Brave Search](https://search.brave.com/)
+Independent search engine by Brave Software, Inc. 
 
 ### [SearXNG](https://docs.searxng.org/)
 Open source, self-hostable, privacy-respecting metasearch engine.  
 It uses other search engine's result and combine them together.  
-[List of SearXNG instances](https://searx.space/)
+[**List of SearXNG instances**](https://searx.space/)
 
 ## Browser extensions
-### [uBlock Origin](https://ublockorigin.com/)  
+### [uBlock Origin](https://ublockorigin.com/)
 Free and open-source ad content blocker.  
-It doesn't only block ads, also can [block YouTube short](https://letsblock.it/filters/youtube-shorts). 
+It doesn't only block ads, also can [**block YouTube short**](https://letsblock.it/filters/youtube-shorts). 
 
-### [Vimium](https://vimium.github.io/)  
+### [Vimium](https://vimium.github.io/)
 Use your browser like you use Vim. 
 
-### [Language tools](https://languagetool.org/)  
+### [Language tools](https://languagetool.org/)
 Spelling and grammar checker. 
 
-### [Sponsor blocks](https://sponsor.ajay.app/)  
+### [Sponsor blocks](https://sponsor.ajay.app/)
 Skip sponsored segments on YouTube and other video platform. 
+
+
+# Communications
+## Realtime Communications
+### [Signal](https://www.signal.org/)
+Signal is an end-to-end encrypted messaging service.  
+They were aiming for beating WhatsApp and fight for user privacy.  
+Super user-friendly and only require phone number to sign up.  
+Note: *Signal's server is not open source, but the client is.* 
+
+### [Session](https://getsession.org/)
+Session is an end-to-end encrypted, decentralized instant messaging application.  
+It was originally started as a fork of Signal, but due to concerns about the centralized structure and phone number requirement, they decide to deviate from it.  
+Compare to Signal, both all client and server software are open source. It uses a Session code to login, which might be confusion for some users. 
+
+### [Matrix](https://matrix.org/) & [Element](https://element.io/)
+
+
+
+## Email
+### Email provider
+[Tutanota](https://tutanota.com/)
+
+[Proton Mail](https://proton.me/mail)
+
+[Disroot](https://disroot.org/en)
+
+
+If non of that works for you, I'll say just use a email provider form a big corpration like: [Mail.com](https://www.mail.com/) Gmail or Outlook. 
+
+### Email client
+[Thunderbird](https://www.thunderbird.net/en-US/)
+
+[K-9 Mail](https://k9mail.app/)
+
+### Email aliasing provider
+[Simplelogin](https://simplelogin.io/)
+
+## RSS
+I really don't know where to put RSS...  
+[Thunderbird](https://www.thunderbird.net/en-US/)
+
+[Feeder](https://github.com/spacecowboy/Feeder)
+
+[Kill the newsletter!](https://kill-the-newsletter.com/)
+
 
 <script src="https://utteranc.es/client.js"
         repo="Colgrave34/Colgrave34.github.io"
