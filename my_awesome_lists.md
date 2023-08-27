@@ -16,6 +16,25 @@ So I thought, how about I made my own Awesome Lists. I have a lot of software to
 *These are not formal Awesome Lists* Just so you know.  
 If you can't find what you're looking for, please use the search bar on top.  
 
+- [Operating Systems](#operating-systems)
+  - [Desktop Linux Distros](#desktop-linux-distros)
+  - [Server Linux Distros](#server-linux-distros)
+  - [Windows](#windows)
+- [Networking](#networking)
+  - [Router Firmaware](#router-firmaware)
+  - [DNS](#dns)
+  - [VPN & Proxy](#vpn--proxy)
+- [Suring on the Web](#surfing-on-the-web)
+  - [Web Browsers](#web-browsers)
+  - [Search Engines](#search-engines)
+  - [Browser Extensions](#browser-extensions)
+- [Communications](#communications)
+  - [Realtime Communications](#realtime-communications)
+  - [Email](#email)
+    - [Email Provider](#email-provider)
+    - [Email Client](#email-client)
+    - [Email Aliasing Provider](#email-aliasing-provider)
+  - [RSS](#rss)
 
 # Operating Systems
 ## Desktop Linux Distros
@@ -99,7 +118,7 @@ Qt based cross-platform GUI proxy configuration manager.
 sing-box / universal proxy tool chain for Android. 
 
 
-# Surfing on the web
+# Surfing on the Web
 ## Web Browsers
 ### [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 The only non-Chromium based, open source web browser. 
@@ -120,7 +139,7 @@ Open source, self-hostable, privacy-respecting metasearch engine.
 It uses other search engine's result and combine them together.  
 [**List of SearXNG instances**](https://searx.space/)
 
-## Browser extensions
+## Browser Extensions
 ### [uBlock Origin](https://ublockorigin.com/)
 Free and open-source ad content blocker.  
 It doesn't only block ads, also can [**block YouTube short**](https://letsblock.it/filters/youtube-shorts). 
@@ -153,7 +172,7 @@ Compare to Signal, both all client and server software are open source. It uses 
 
 
 ## Email
-### Email provider
+### Email Provider
 [Tutanota](https://tutanota.com/)
 
 [Proton Mail](https://proton.me/mail)
@@ -163,12 +182,12 @@ Compare to Signal, both all client and server software are open source. It uses 
 
 If non of that works for you, I'll say just use a email provider form a big corpration like: [Mail.com](https://www.mail.com/) Gmail or Outlook. 
 
-### Email client
+### Email Client
 [Thunderbird](https://www.thunderbird.net/en-US/)
 
 [K-9 Mail](https://k9mail.app/)
 
-### Email aliasing provider
+### Email Aliasing Provider
 [Simplelogin](https://simplelogin.io/)
 
 ## RSS
