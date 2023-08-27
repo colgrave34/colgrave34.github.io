@@ -6,16 +6,14 @@ nav_order: 8
 # My Awesome List
 [Awesome Lists](https://github.com/sindresorhus/awesome) are lists of awesome tools, books, guides and media that everyone can contribute to. 
 
-For example: 
-- [List of Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
-- [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting)
-- [Awesome Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi)
+For example: [List of Free Programming Books](https://github.com/EbookFoundation/free-programming-books) and [Awesome Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi). 
 
 So I thought, how about I made my own Awesome Lists. I have a lot of software tools I used every day, privacy focused or just good tools overall, mostly are open source. 
 
 *These are not formal Awesome Lists* Just so you know.  
-If you can't find what you're looking for, please use the search bar on top.  
+If you can't find what you're looking for, please use the search bar on top. 
 
+&nbsp;
 - [Operating Systems](#operating-systems)
   - [Desktop Linux Distros](#desktop-linux-distros)
   - [Server Linux Distros](#server-linux-distros)
@@ -36,6 +34,7 @@ If you can't find what you're looking for, please use the search bar on top.
     - [Email Aliasing Provider](#email-aliasing-provider)
   - [RSS](#rss)
 
+&nbsp;
 # Operating Systems
 ## Desktop Linux Distros
 Here are desktop distros that I recommend for new users
