@@ -136,12 +136,12 @@ Independent search engine by Brave Software, Inc.
 ### [SearXNG](https://docs.searxng.org/)
 Open source, self-hostable, privacy-respecting metasearch engine.  
 It uses other search engine's result and combine them together.  
-[**List of SearXNG instances**](https://searx.space/)
+[List of SearXNG instances](https://searx.space/)
 
 ## Browser Extensions
 ### [uBlock Origin](https://ublockorigin.com/)
 Free and open-source ad content blocker.  
-It doesn't only block ads, also can [**block YouTube short**](https://letsblock.it/filters/youtube-shorts). 
+It doesn't only block ads, also can [block YouTube short](https://letsblock.it/filters/youtube-shorts). 
 
 ### [Vimium](https://vimium.github.io/)
 Use your browser like you use Vim. 
