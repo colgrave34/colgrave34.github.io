@@ -107,9 +107,9 @@ sudo ufw allow https #打开https端口
 sudo ufw deny 8080/tcp #关闭Pufferpanel端口
 sudo ufw reload #重启ufw防火墙
 ```
-  
+
 <script src="https://utteranc.es/client.js"
-        repo="C0lgrave34/C0lgrave34.github.io"
+        repo="Colgrave34/Colgrave34.github.io"
         issue-term="pathname"
         label="Comment"
         theme="github-light"

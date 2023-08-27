@@ -110,10 +110,10 @@ apt-config dump APT::Periodic::Unattended-Upgrade
 
 ## At the end
 虽然设置了自动更新，但我还是建议时不时登上去看一眼，查查 SELinux 的 log。  
-祝大家 Linux 旅途愉快！
-  
+祝大家 Linux 旅途愉快！ 
+
 <script src="https://utteranc.es/client.js"
-        repo="C0lgrave34/C0lgrave34.github.io"
+        repo="Colgrave34/Colgrave34.github.io"
         issue-term="pathname"
         label="Comment"
         theme="github-light"

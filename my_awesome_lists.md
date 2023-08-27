@@ -135,7 +135,7 @@ Spelling and grammar checker.
 Skip sponsored segments on YouTube and other video platform. 
 
 <script src="https://utteranc.es/client.js"
-        repo="C0lgrave34/C0lgrave34.github.io"
+        repo="Colgrave34/Colgrave34.github.io"
         issue-term="pathname"
         label="Comment"
         theme="github-light"
