@@ -27,7 +27,7 @@ If you can't find what you're looking for, please use the search bar on top.
   - [Search Engines](#search-engines)
   - [Browser Extensions](#browser-extensions)
 - [Communications](#communications)
-  - [Realtime Communications](#realtime-communications)
+  - [Real-time Communication](#real-time-communication)
   - [Email](#email)
     - [Email Provider](#email-provider)
     - [Email Client](#email-client)
@@ -154,7 +154,7 @@ Skip sponsored segments on YouTube and other video platform.
 
 
 # Communications
-## Realtime Communications
+## Real-time Communication
 ### [Signal](https://www.signal.org/)
 Signal is an end-to-end encrypted messaging service.  
 They were aiming for beating WhatsApp and fight for user privacy.  
@@ -167,36 +167,49 @@ It was originally started as a fork of Signal, but due to concerns about the cen
 Compare to Signal, both all client and server software are open source. It uses a Session code to login, which might be confusion for some users. 
 
 ### [Matrix](https://matrix.org/) & [Element](https://element.io/)
+Matrix is an open standard real-time communication protocol.  
+Besides all the decentralized goodness, it also supports bridges to connect between other chat services, so you can use one app for all your communication needs. 
 
-
+Element on the other hand is a client application for Matrix, I think it's the best all around app for it. 
 
 ## Email
 ### Email Provider
 [Tutanota](https://tutanota.com/)
+Tutanota is an end-to-end encrypted email app and a freemium secure email service based in Germany. 
 
 [Proton Mail](https://proton.me/mail)
+Proton Mail is also an end-to-end encrypted email service founded in 2013 headquartered in Switzerland. 
 
 [Disroot](https://disroot.org/en)
-
-
-If non of that works for you, I'll say just use a email provider form a big corpration like: [Mail.com](https://www.mail.com/) Gmail or Outlook. 
+Disroot project is based in Amsterdam and providing open, decentralized, federated services that respectful freedom and privacy.  
+You need to use an email client to use their service. 
 
 ### Email Client
 [Thunderbird](https://www.thunderbird.net/en-US/)
+Thunderbird is an open source email client from Mozilla.  
+After the 115 update, I think everyone should start switching. 
 
 [K-9 Mail](https://k9mail.app/)
+As current maintainer joined to Mozilla Foundation, K-9 Mail plans to be rebranded as Thunderbird for Android. 
 
 ### Email Aliasing Provider
 [Simplelogin](https://simplelogin.io/)
+Email Aliasing will generate a random, disposable email address for you and forward it to your real email.  
+This is useable for one time sign up, trying new services, or just don't want to give out your real email.  
+Simplelogin is the only service I tried, it might have better providers out there. 
 
 ## RSS
 I really don't know where to put RSS...  
 [Thunderbird](https://www.thunderbird.net/en-US/)
+Pss... Thunderbird can be used as an RSS reader. 
+Truly one app rule them all. 
 
 [Feeder](https://github.com/spacecowboy/Feeder)
+Open source, good-looking Android RSS reader. 
 
 [Kill the newsletter!](https://kill-the-newsletter.com/)
-
+Do you want to change all the newsletter to RSS?  
+There's always some newsletter that don't have RSS support. Kill the newsletter is your bet. 
 
 <script src="https://utteranc.es/client.js"
         repo="Colgrave34/Colgrave34.github.io"
