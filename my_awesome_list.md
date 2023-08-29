@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: My Awesome Lists
 nav_order: 8
 ---
@@ -200,16 +200,80 @@ Simplelogin is the only service I tried, it might have better providers out ther
 
 ## RSS
 I really don't know where to put RSS...  
-[Thunderbird](https://www.thunderbird.net/en-US/)
+### [Thunderbird](https://www.thunderbird.net/en-US/)
 Pss... Thunderbird can be used as an RSS reader. 
-Truly one app rule them all. 
+Truly one App rule them all. 
 
-[Feeder](https://github.com/spacecowboy/Feeder)
+### [Feeder](https://github.com/spacecowboy/Feeder)
 Open source, good-looking Android RSS reader. 
 
-[Kill the newsletter!](https://kill-the-newsletter.com/)
+### [Kill the newsletter!](https://kill-the-newsletter.com/)
 Do you want to change all the newsletter to RSS?  
 There's always some newsletter that don't have RSS support. Kill the newsletter is your bet. 
+
+
+# Productivity
+## Office Tools
+### [LibreOffice](https://www.libreoffice.org/)
+LibreOffice is a free and open-source office suite from [The Document Foundation](https://www.documentfoundation.org/).  
+It was originally forked from OpenOffice. 
+
+### [OnlyOffice](https://www.onlyoffice.com/)
+OnlyOffice is an open source office suite.  
+If you'd like to switch away from Microsoft Office, OnlyOffice might be the go-to choice. 
+
+## Notetaking
+### [Joplin](https://joplinapp.org/)
+Joplin is a free and open source note-taking application.  
+It supports mutiable synchronisation target such as: Nextcloud, S3, OneDrive, Dropbox or WebDAV. 
+
+### [Simplenote](https://simplenote.com/)
+Simplenote is a note-taking application with Markdown support.  
+It's for people just want a Markdown supported note-taking App. 
+
+### [SiYuan/思源笔记](https://github.com/siyuan-note/siyuan)
+SiYuan is a privacy-first personal knowledge management system.  
+SiYuan supports Markdown, notes Graph View and it's self-hostable. 
+
+## Google Drive Alternatives
+### [Nextcloud](https://nextcloud.com/)
+Nextcloud is an open source suites of software similar to Dropbox, Office 365 and Google Drive.  
+Nextcloud is a fork of OwnCloud but has more features. 
+
+### [OwnCloud](https://owncloud.com/)
+OwnCloud is an open source cloud and file syncing software alternative to Google Drive.  
+It provides a clean and fast experience, and you will have control over your files. 
+
+# Creative Tools
+## Image/Digital Drawing
+### [GIMP](https://www.gimp.org/)
+### [Darktable](https://www.darktable.org/)
+### [Krita](https://krita.org/en/)
+
+## CAD & 3D modoling Tools
+### [LibreCAD](https://librecad.org/)
+### [FreeCAD](https://www.freecad.org/)
+### [Blender](https://www.blender.org/)
+### [OpenSCAD](https://openscad.org/)
+### [KiCad](https://www.kicad.org/)
+
+
+# Android Apps
+### [F-Droid]()
+### [Aurora Store]()
+### [AntennaPod]()
+### [Breezy Weather]()
+### [Catima]()
+### [Currencies]()
+### [DAVx5]()
+### [Fcitx5]()
+### [FitoTrack]()
+### [Kotatsu]()
+### [KOreader]()
+### [LoopHabit]()
+### [Termux]()
+### [Tusky]()
+### [ViMusic]()
 
 <script src="https://utteranc.es/client.js"
         repo="Colgrave34/Colgrave34.github.io"
