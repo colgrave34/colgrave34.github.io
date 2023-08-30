@@ -1,16 +1,16 @@
 ---
 layout: post
-title: pi-on-rack
+title: Pi on Rack
 date: 2023-07-27
 nav_order: 1
 parent: Projects
 ---
-# pi-on-rack
+# Pi on Rack
 Just like the name, this is a Raspberry Pi rack mount. 
 
 ![render](https://user-images.githubusercontent.com/31970387/197358675-aa88f577-4f36-4af7-96ef-e6acb4ab5fa1.jpg)
 
-[Project Link](https://codeberg.org/Colgrave/pi-on-rack)
+[Project Link](https://codeberg.org/Colgrave/pi-on-rack){: .btn .btn-outline }
 
 ## Why
 There are project outthere like [russross's rack-mount bracket](https://www.thingiverse.com/thing:4125055). But that is a full rack, and I only have 1 raspi. 
