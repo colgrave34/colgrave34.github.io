@@ -247,27 +247,50 @@ It provides a clean and fast experience, and you will have control over your fil
 # Creative Tools
 ## Image/Digital Drawing
 ### [GIMP](https://www.gimp.org/)
-### [Darktable](https://www.darktable.org/)
-### [Krita](https://krita.org/en/)
+GNU Image Manipulation Program is a free and open source graphics editor.  
+It is the Photoshop alternative. 
 
-## CAD & 3D modoling Tools
-### [LibreCAD](https://librecad.org/)
-### [FreeCAD](https://www.freecad.org/)
+### [Darktable](https://www.darktable.org/)
+Darktable is similar to Lightroom, it's an open source photography application and raw developer. 
+
+### [Krita](https://krita.org/en/)
+I would like you to stop paying for digital drawing app such as Photoshop, Clip studio and SAI.  
+Krita can do everything they can, it's an open source digital art and 2D animation application. 
+
+## CAD & 3D modeling Tools
 ### [Blender](https://www.blender.org/)
+Blender is an open source 3D modeling tool. 
+It has been used in a lot of animation movies and has proven that open source software can be better than Proprietary software. 
+
 ### [OpenSCAD](https://openscad.org/)
+An open source 3D CAD software.  
+It's a bit hard to learn, but I have seen a lot of people use it for 3D printing. 
+
 ### [KiCad](https://www.kicad.org/)
+The PCB designing CAD software.  
+Most of the open source PCB are designed by using KiCad. 
 
 
 # Android Apps
+Here's few Android apps I like to use. 
 ### [F-Droid]()
+
 ### [Aurora Store]()
+
 ### [AntennaPod]()
+
 ### [Breezy Weather]()
+
 ### [Catima]()
+
 ### [Currencies]()
+
 ### [DAVx5]()
+
 ### [Fcitx5]()
+
 ### [FitoTrack]()
+
 ### [Kotatsu]()
 ### [KOreader]()
 ### [LoopHabit]()
