@@ -270,34 +270,6 @@ It's a bit hard to learn, but I have seen a lot of people use it for 3D printing
 The PCB designing CAD software.  
 Most of the open source PCB are designed by using KiCad. 
 
-
-# Android Apps
-Here's few Android apps I like to use. 
-### [F-Droid]()
-
-### [Aurora Store]()
-
-### [AntennaPod]()
-
-### [Breezy Weather]()
-
-### [Catima]()
-
-### [Currencies]()
-
-### [DAVx5]()
-
-### [Fcitx5]()
-
-### [FitoTrack]()
-
-### [Kotatsu]()
-### [KOreader]()
-### [LoopHabit]()
-### [Termux]()
-### [Tusky]()
-### [ViMusic]()
-
 <script src="https://utteranc.es/client.js"
         repo="Colgrave34/Colgrave34.github.io"
         issue-term="pathname"
