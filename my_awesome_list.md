@@ -33,6 +33,14 @@ If you can't find what you're looking for, please use the search bar on top.
     - [Email Client](#email-client)
     - [Email Aliasing Provider](#email-aliasing-provider)
   - [RSS](#rss)
+- [Productivity](#productivity)
+  - [Office Tools](#office-tools)
+  - [Notetaking](#notetaking)
+  - [Google Drive Alternatives](#google-drive-alternatives)
+- [Creative Tools](#creative-tools)
+  - [Image/Digital Drawing](#imagedigital-drawing)
+  - [CAD 3D Modeling Tools](#cad--3d-modeling-tools)
+
 
 &nbsp;
 # Operating Systems
@@ -244,6 +252,7 @@ Nextcloud is a fork of OwnCloud but has more features.
 OwnCloud is an open source cloud and file syncing software alternative to Google Drive.  
 It provides a clean and fast experience, and you will have control over your files. 
 
+
 # Creative Tools
 ## Image/Digital Drawing
 ### [GIMP](https://www.gimp.org/)
@@ -257,7 +266,7 @@ Darktable is similar to Lightroom, it's an open source photography application a
 I would like you to stop paying for digital drawing app such as Photoshop, Clip studio and SAI.  
 Krita can do everything they can, it's an open source digital art and 2D animation application. 
 
-## CAD & 3D modeling Tools
+## CAD & 3D Modeling Tools
 ### [Blender](https://www.blender.org/)
 Blender is an open source 3D modeling tool. 
 It has been used in a lot of animation movies and has proven that open source software can be better than Proprietary software. 
