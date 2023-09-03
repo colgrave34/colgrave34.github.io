@@ -271,9 +271,11 @@ Krita can do everything they can, it's an open source digital art and 2D animati
 Blender is an open source 3D modeling tool. 
 It has been used in a lot of animation movies and has proven that open source software can be better than Proprietary software. 
 
-### [OpenSCAD](https://openscad.org/)
-An open source 3D CAD software.  
-It's a bit hard to learn, but I have seen a lot of people use it for 3D printing. 
+### [LibreCAD](https://librecad.org/)
+Cross Platform open source 2D CAD software. 
+
+### [FreeCAD](https://www.freecad.org/)
+FreeCAD is an open source 3D CAD software. 
 
 ### [KiCad](https://www.kicad.org/)
 The PCB designing CAD software.  
