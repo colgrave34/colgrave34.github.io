@@ -18,9 +18,9 @@ But it didn't satisfy me... (Nothing do)
 I would like to use only the controller to navigate without pulling out my Logitech K400.  
 
 ![plasma-bigscreen](/assets/screenshot-1.webp)
-*Plasma Bigscreen, image copylefted by KDE Community*
+*Plasma Bigscreen, image copyright by KDE Community*
 
-I find out [Plasma Bigscreen](https://plasma-bigscreen.org/). It looks great, feels fantastic. While it still in devolpment, I can use it no problem on Arch. And only arch...  
+I find out [Plasma Bigscreen](https://plasma-bigscreen.org/). It looks great, feels fantastic. While it still in devolpment, I can use it no problem on Arch. And only Arch...  
 At the moment of writing, Plasma Bigscreen only support on postmarketOS and Manjaro. So this is why I decide using Arch and AUR.  
 
 Would I support other distros?  
