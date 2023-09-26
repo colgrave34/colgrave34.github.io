@@ -41,4 +41,4 @@ Donations are welcome!
 `41ev5fReKiS5DzmMjastM31DMf3jpdsG9HRD62YxWcBdMxG5xvcVxht1WSD4C4DxkoWFxjikHfZXY6k3KukXKEDsAB4Nb1c`
 
 ### Unstoppable Domains
-https://slowpoct.wallet/
+[https://slowpoct.wallet/](https://slowpoct.wallet/)
