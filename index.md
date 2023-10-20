@@ -29,9 +29,6 @@ I prefer using email for all my professional work.
 If you have a question, ask me on Matrix, Mastodon or just simply leave a comment under the post.  
 [Contact](https://hanqixu.com/contact/){: .btn .btn-outline }
 
-## Commission Shop
-[Shop](https://shop.hanqixu.com){: .btn .btn-outline }
-
 ## Donations
 Donations are welcome!
 ### Liberpay
