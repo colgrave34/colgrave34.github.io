@@ -11,7 +11,7 @@ For example: [List of Free Programming Books](https://github.com/EbookFoundation
 So I thought, how about I made my own Awesome Lists. I have a lot of software tools I used every day, privacy focused or just good tools overall, mostly are open source. 
 
 *These are not formal Awesome Lists* Just so you know.  
-If you can't find what you're looking for, please use the search bar on top. 
+If you can't find what you're looking for, consider use the search bar on top. 
 
 &nbsp;
 - [Operating Systems](#operating-systems)
