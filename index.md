@@ -1,6 +1,5 @@
 ---
 layout: home
-nav_order: 1
 ---
 # Welcome to Colgrave's Blog
 Welcome to my blog!  
