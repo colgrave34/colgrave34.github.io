@@ -122,7 +122,7 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Colgrave's Blog 🄯 2022-2023 by Hanqi Xu · Site content is under <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\"> CC BY-SA 4.0</a> · <a href=\"https://github.com/C0lgrave34/C0lgrave34.github.io/\">Site code</a> is under <a href=\"https://www.gnu.org/licenses/gpl-3.0.html/\"> GPLv3</a>"
+footer_content: "Colgrave's Blog 🄯 2022-2023 by Hanqi Xu · Site content is under <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a> · Site is power by <a href=\"https://jekyllrb.com/\">Jekyll</a> & <a href=\"https://just-the-docs.com/\">Just the Docs theme</a>."
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
