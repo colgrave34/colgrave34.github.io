@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Linux灯塔
-nav_order: 4
+nav_order: 3
 has_children: true
 ---
 # Linux灯塔

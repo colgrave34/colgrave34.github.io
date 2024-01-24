@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Awesome Lists
-nav_order: 8
+nav_order: 7
 ---
 # My Awesome List
 [Awesome Lists](https://github.com/sindresorhus/awesome) are lists of awesome tools, books, guides and media that everyone can contribute to. 
