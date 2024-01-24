@@ -182,8 +182,8 @@ Element on the other hand is a client application for Matrix, I think it's the b
 
 ## Email
 ### Email Provider
-[Tutanota](https://tutanota.com/)  
-Tutanota is an end-to-end encrypted email app and a freemium secure email service based in Germany. 
+[Tuta](https://tuta.com/)  
+Tuta is an end-to-end encrypted email app and a freemium secure email service based in Germany. 
 
 [Proton Mail](https://proton.me/mail)  
 Proton Mail is also an end-to-end encrypted email service founded in 2013 headquartered in Switzerland. 
