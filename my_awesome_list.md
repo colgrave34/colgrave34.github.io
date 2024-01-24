@@ -79,8 +79,8 @@ Rocky Linux is an enterprise operating system designed to be 100% bug-for-bug co
 OpenSUSE Leap uses source from SUSE Linux Enterprise, which gives an enterprise level of stability to your home lab. 
 
 ## Windows
-### [Sophia Script for Windows](https://github.com/farag2/Sophia-Script-for-Windows)  
-This script allows you to delete bloatware, disable telemetry and more. 
+### [SophiApp](https://github.com/Sophia-Community/SophiApp)  
+SophiApp is a free, open-source app allows you to delete bloatware, disable telemetry and more. 
 
 [Here](https://wiki.installgentoo.com/images/2/29/Windows10.jpg) is why I prefer Linux.  
 But, life isn't perfect. Sometimes we have to use Windows.  
@@ -182,26 +182,26 @@ Element on the other hand is a client application for Matrix, I think it's the b
 
 ## Email
 ### Email Provider
-[Tutanota](https://tutanota.com/)
+[Tutanota](https://tutanota.com/)  
 Tutanota is an end-to-end encrypted email app and a freemium secure email service based in Germany. 
 
-[Proton Mail](https://proton.me/mail)
+[Proton Mail](https://proton.me/mail)  
 Proton Mail is also an end-to-end encrypted email service founded in 2013 headquartered in Switzerland. 
 
-[Disroot](https://disroot.org/en)
+[Disroot](https://disroot.org/en)  
 Disroot project is based in Amsterdam and providing open, decentralized, federated services that respectful freedom and privacy.  
 You need to use an email client to use their service. 
 
 ### Email Client
-[Thunderbird](https://www.thunderbird.net/en-US/)
+[Thunderbird](https://www.thunderbird.net/en-US/)  
 Thunderbird is an open source email client from Mozilla.  
 After the 115 update, I think everyone should start switching. 
 
-[K-9 Mail](https://k9mail.app/)
+[K-9 Mail](https://k9mail.app/)  
 As current maintainer joined to Mozilla Foundation, K-9 Mail plans to be rebranded as Thunderbird for Android. 
 
 ### Email Aliasing Provider
-[Simplelogin](https://simplelogin.io/)
+[Simplelogin](https://simplelogin.io/)  
 Email Aliasing will generate a random, disposable email address for you and forward it to your real email.  
 This is useable for one time sign up, trying new services, or just don't want to give out your real email.  
 Simplelogin is the only service I tried, it might have better providers out there. 
