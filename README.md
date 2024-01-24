@@ -9,7 +9,9 @@ If you have a question, ask me on Matrix, Mastodon or just simply leave a commen
 
 ## License
 Site content is under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)  
-Site code is under [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html/)
+Site code is under [MIT](https://github.com/Colgrave34/Colgrave34.github.io/blob/main/LICENSE)
+[Jekyll](https://github.com/jekyll/jekyll) is under [MIT](https://github.com/jekyll/jekyll/blob/master/LICENSE)  
+[Just the Docs](https://just-the-docs.com/) is under [MIT](https://github.com/just-the-docs/just-the-docs/blob/main/LICENSE.txt)
 
 ## Donations
 Donations are welcome!
