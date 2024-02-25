@@ -11,8 +11,7 @@ If you have a question, ask me on Matrix, Mastodon or just simply leave a commen
 Site content is under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)  
 Site code is under [MIT](https://github.com/Colgrave34/Colgrave34.github.io/blob/main/LICENSE)
 
-## Donations
-Donations are welcome!
+## Donations are welcome if you like what I do!
 ### Liberpay
 https://liberapay.com/Colgrave/donate  
 ### Monero

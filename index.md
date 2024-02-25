@@ -28,10 +28,9 @@ I prefer using email for all my professional work.
 If you have a question, ask me on Matrix, Mastodon or just simply leave a comment under the post.  
 [Contact](https://hanqixu.com/contact/){: .btn .btn-outline }
 
-## Donations
-Donations are welcome!
+## Donations are welcome if you like what I do!
 ### Liberpay
-<script src="https://liberapay.com/Colgrave/widgets/button.js"></script>  
+iberapay.com/Colgrave/widgets/button.js"></script>  
 
 ### Monero
 `41ev5fReKiS5DzmMjastM31DMf3jpdsG9HRD62YxWcBdMxG5xvcVxht1WSD4C4DxkoWFxjikHfZXY6k3KukXKEDsAB4Nb1c`
