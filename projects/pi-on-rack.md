@@ -28,10 +28,10 @@ It is not in development right now, but I still have plans for the future like d
 ![photo2](https://user-images.githubusercontent.com/31970387/197358686-c88af996-5bb9-4c59-abfc-26fb27905f3f.jpg)
 
 <script src="https://utteranc.es/client.js"
-        repo="C0lgrave34/C0lgrave34.github.io"
+        repo="Colgrave34/Colgrave34.github.io"
         issue-term="pathname"
         label="Comment"
-        theme="github-light"
+        theme="github-dark"
         crossorigin="anonymous"
         async>
 </script>

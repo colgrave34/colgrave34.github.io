@@ -33,10 +33,10 @@ bash <(curl -s https://codeberg.org/Colgrave/plasma-bigscreen-install-script/raw
 ```
 
 <script src="https://utteranc.es/client.js"
-        repo="C0lgrave34/C0lgrave34.github.io"
+        repo="Colgrave34/Colgrave34.github.io"
         issue-term="pathname"
         label="Comment"
-        theme="github-light"
+        theme="github-dark"
         crossorigin="anonymous"
         async>
 </script>
