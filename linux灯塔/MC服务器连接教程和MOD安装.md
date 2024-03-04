@@ -125,7 +125,7 @@ Optifine 可以 Rubidium 和 Oculus 代替，两个加起来效果是和 Optifin
         repo="Colgrave34/Colgrave34.github.io"
         issue-term="pathname"
         label="Comment"
-        theme="github-light"
+        theme="github-dark"
         crossorigin="anonymous"
         async>
 </script>
