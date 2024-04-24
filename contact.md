@@ -22,7 +22,7 @@ Feel free to say hi there!
 &nbsp;  
 &nbsp;  
   
-- [gitHub](https://github.com/Colgrave34)
+- [github](https://github.com/Colgrave34)
 - [codeberg](https://codeberg.org/Colgrave)
 - [sspai](https://sspai.com/u/11l4rhh4/updates/)
 - [bilibili](https://space.bilibili.com/16015122/)
