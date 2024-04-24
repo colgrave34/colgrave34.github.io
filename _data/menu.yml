@@ -1,0 +1,64 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: about
+    url: about
+  - title: contact
+    url: contact
+
+  - title: all-posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+
+  - title: linux-lighthouse
+    post_list:
+      category: linux-lighthouse
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: linux-lighthouse.html
+
+  - title: linux灯塔
+    post_list:
+      category: linux灯塔
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: linux灯塔.html
+
+  - title: custom-keyboard-101
+    post_list:
+      category: custom-keyboard-101
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: custom-keyboard-101.html
+
+  - title: 客制化键盘指北
+    post_list:
+      category: 客制化键盘指北
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: 客制化键盘指北.html
+
+  - title: projects
+    post_list:
+      category: projects
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: projects.html
+
+  - title: gallery
+    post_list:
+      category: gallery
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: gallery.html
+
+  - title: about-this-website
+    url: /post/2024/04/24/about-this-website.html
+
+  - title: rss
+    url: feed.xml
+ 
