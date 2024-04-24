@@ -6,7 +6,8 @@ category: post
 ---
 I'm in my mid 20s, just graduated from college, and I already feel like there's too many things I need to take care of in my life.  
 Life, health, things I love and home labs... (maybe I asked for it lol)  
-2 days ago my Hugo website broke, headers and footers are gone, maybe from a theme update. So I thought maybe just combine the portfolio and blog together and just host on GitHub. After 2 days of finding a good theme, I'm tired... too tired to care.  
+2 days ago my Hugo website broke, headers and footers are gone, maybe from a theme update. So I thought combining the portfolio and blog together and just host on GitHub.  
+After 2 days of looking for a good theme, I'm tired... too tired to care.  
 So here we are, [no-style-please](https://github.com/riggraz/no-style-please) by [riggraz](https://github.com/riggraz) 
 
 # What about the old contents
