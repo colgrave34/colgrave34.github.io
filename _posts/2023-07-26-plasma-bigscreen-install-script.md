@@ -2,7 +2,7 @@
 layout: post
 title: Plasma Bigscreen Install Script
 date: 2023-07-26
-category: Projects
+category: projects
 ---
 # Plasma Bigscreen Install Script
 A Plasma Bigscreen install script for Arch Linux. 
