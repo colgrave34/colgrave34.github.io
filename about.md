@@ -32,7 +32,7 @@ This 101 course will tell you the ins and outs about Custom keyboards, layouts, 
 
 ## Donations are welcome if you like what I do!
 ### Liberpay
-iberapay.com/Colgrave/widgets/button.js"></script>  
+[https://liberapay.com/Colgrave/donate](https://liberapay.com/Colgrave/donate)
 
 ### Monero
 `41ev5fReKiS5DzmMjastM31DMf3jpdsG9HRD62YxWcBdMxG5xvcVxht1WSD4C4DxkoWFxjikHfZXY6k3KukXKEDsAB4Nb1c`
