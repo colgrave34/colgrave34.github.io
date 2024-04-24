@@ -9,10 +9,10 @@ permalink: /contact/
 ## Matrix
 I prefer to do all my professional work via email.  
 You can reach out to me on Matrix with questions, or just to say hello.  
-[https://matrix.to/#/@colgrave34:mozilla.org](https://matrix.to/#/@colgrave34:tchncs.de)  
+[https://matrix.to/#/@colgrave34:tchncs.de](https://matrix.to/#/@colgrave34:tchncs.de)  
 
 Here's my group chat on Matrix, feel free to drop in and hang out!  
-[https://matrix.to/#/#cyber-coffeehouse:mozilla.org](https://matrix.to/#/#cyber-coffeehouse:tchncs.de)
+[https://matrix.to/#/#cyber-coffeehouse:tchncs.de](https://matrix.to/#/#cyber-coffeehouse:tchncs.de)
 
 ## Mastodon
 I'm also on Mastodon.  
