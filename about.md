@@ -10,10 +10,9 @@ Feel free to correct me on Github.
 随时在Github上纠正我。 
 
 ## How to reach me
-Please follow the button to reach out to me.  
+You can reach out to me [here](/contact/).  
 I prefer using email for all my professional work.  
-If you have a question, ask me on Matrix, Mastodon or just simply leave a comment under the post.  
-[Contact](/contact/)
+If you have a question, ask me on Matrix, Mastodon or just simply leave a comment under the post. 
 
 ## Categories
 ### [**Linux Lighthouse**](/linux-lighthouse.html/)
