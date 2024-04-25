@@ -5,9 +5,9 @@ permalink: /about/
 ---
 # Welcome to Colgrave's Blog
 Welcome to my blog!  
-Feel free to correct me on Github.  
+Because the website is open source, feel free to correct me on [Github](https://github.com/Colgrave34/Colgrave34.github.io).  
 欢迎来到我的博客!  
-随时在Github上纠正我。 
+本网站完全开源，随时在 [Github](https://github.com/Colgrave34/Colgrave34.github.io) 上纠正我。 
 
 ## How to reach me
 You can reach out to me [here](/contact/).  
