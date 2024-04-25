@@ -4,7 +4,6 @@ title: Plasma Bigscreen Install Script
 date: 2023-07-26
 category: projects
 ---
-# Plasma Bigscreen Install Script
 A Plasma Bigscreen install script for Arch Linux. 
 
 [Project Link](https://codeberg.org/Colgrave/plasma-bigscreen-install-script){: .btn .btn-outline }
@@ -30,12 +29,3 @@ Simple enough, just run the following command:
 ```
 bash <(curl -s https://codeberg.org/Colgrave/plasma-bigscreen-install-script/raw/branch/main/pbinstall.sh)
 ```
-
-<script src="https://utteranc.es/client.js"
-        repo="Colgrave34/Colgrave34.github.io"
-        issue-term="pathname"
-        label="Comment"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-</script>
