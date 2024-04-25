@@ -1,6 +1,6 @@
 # Colgrave's blog
 This is the repo of my blog.  
-Feel free to correct me here by using [Pull request](https://github.com/C0lgrave34/C0lgrave34.github.io/pulls) or [Discussions](https://github.com/C0lgrave34/C0lgrave34.github.io/discussions).  
+Feel free to correct me here by using [Pull request](https://github.com/Colgrave34/Colgrave34.github.io/pulls) or [Discussions](https://github.com/Colgrave34/Colgrave34.github.io/discussions).  
 
 ## How to reach me
 You can reach out to me [here](https://hanqixu.com/contact/).  
@@ -13,8 +13,10 @@ Site code is under [MIT](https://github.com/Colgrave34/Colgrave34.github.io/blob
 
 ## Donations are welcome if you like what I do!
 ### Liberpay
-https://liberapay.com/Colgrave/donate  
+[https://liberapay.com/Colgrave/donate](https://liberapay.com/Colgrave/donate)
+
 ### Monero
 `41ev5fReKiS5DzmMjastM31DMf3jpdsG9HRD62YxWcBdMxG5xvcVxht1WSD4C4DxkoWFxjikHfZXY6k3KukXKEDsAB4Nb1c`
+
 ### Unstoppable Domains
-https://slowpoct.wallet/
+[https://slowpoct.wallet/](https://slowpoct.wallet/)
