@@ -22,7 +22,7 @@ It disappeared, bombed, died.
 # Your website looks ugly now
 Do I look like the type of guy who cares?  
 The only thing you need to focus is the content. Nothing else.  
-If you are my hiring manager, sorry about my website not as pretty as others, but it's easier for me to maintain, minimal and straight forward. 
+If you are my hiring manager, sorry about my website not as pretty as others, but it's easier for me to maintain, looks minimal and straight forward. 
 
 # Will the website stay like this? 
 Maybe, maybe not. As a big tinker, this probably won't stay long, we will see. 
