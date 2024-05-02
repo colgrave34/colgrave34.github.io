@@ -4,7 +4,6 @@ title: My Awesome Lists
 date: 2024-04-20
 category: post
 ---
-# My Awesome List
 [Awesome Lists](https://github.com/sindresorhus/awesome) are lists of awesome tools, books, guides and media that everyone can contribute to. 
 
 For example: [List of Free Programming Books](https://github.com/EbookFoundation/free-programming-books) and [Awesome Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi). 
@@ -281,12 +280,3 @@ FreeCAD is an open source 3D CAD software.
 ### [KiCad](https://www.kicad.org/)
 The PCB designing CAD software.  
 Most of the open source PCB are designed by using KiCad. 
-
-<script src="https://utteranc.es/client.js"
-        repo="Colgrave34/Colgrave34.github.io"
-        issue-term="pathname"
-        label="Comment"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
