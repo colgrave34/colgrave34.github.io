@@ -67,6 +67,7 @@ Whether or not Red Hat is violating the license is still in debate, it's quite u
 
 ## Where does Alma and Rocky go from here?
 ![3daba14bef8d4608bd4922f2a5402905.png](/assets/img/2024-06-09-the-death-of-centos/3daba14bef8d4608bd4922f2a5402905.webp)
+
 In August 2023, CIQ (the company behind Rocky), Oracle, and SUSE joined forces to create OpenELA, not only in protest, but also as a way to work together to ensure the 1:1 compatible with RHEL. The main task was to pick and fix software from the CentOS Stream to achieve the goal.
 
 Alma, on the other hand, has chosen to become a fork of RHEL and is not aiming for a 1:1 compatible anymore. But supported on the OpenELA project.
