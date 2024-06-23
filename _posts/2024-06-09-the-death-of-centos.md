@@ -3,7 +3,7 @@ layout: post
 title: The Death of CentOS
 date: 2024-06-09
 ---
-![cd4d555944999958b29f9619f5ef99a0](/assets/img/2024-06-09-thedeathofcentos/cd4d555944999958b29f9619f5ef99a0.webp)
+![cd4d555944999958b29f9619f5ef99a0](/assets/img/2024-06-09-the-death-of-centos/cd4d555944999958b29f9619f5ef99a0.webp)
 
 CentOS 7 is going to end its update next mouth, with this opportunity I'd like to talk about the history of Red Hat, CentOS, and what the hell happened in the past two years.
 
@@ -66,7 +66,7 @@ Without upstream's source code, downstream distro of course having a bad time up
 Whether or not Red Hat is violating the license is still in debate, it's quite unrealistic to get a response at this stage.
 
 ## Where does Alma and Rocky go from here?
-![3daba14bef8d4608bd4922f2a5402905.png](/assets/img/2024-06-09-thedeathofcentos/3daba14bef8d4608bd4922f2a5402905.webp)
+![3daba14bef8d4608bd4922f2a5402905.png](/assets/img/2024-06-09-the-death-of-centos/3daba14bef8d4608bd4922f2a5402905.webp)
 In August 2023, CIQ (the company behind Rocky), Oracle, and SUSE joined forces to create OpenELA, not only in protest, but also as a way to work together to ensure the 1:1 compatible with RHEL. The main task was to pick and fix software from the CentOS Stream to achieve the goal.
 
 Alma, on the other hand, has chosen to become a fork of RHEL and is not aiming for a 1:1 compatible anymore. But supported on the OpenELA project.
@@ -74,7 +74,7 @@ Alma, on the other hand, has chosen to become a fork of RHEL and is not aiming f
 ## For hobbyist
 > Jeff Geerling: A few years ago, I would've said CentOS or Debian. Now, the answer is much easier.
 
-![ee0c73f4a12a462ab495d5aace3616dd.png](/assets/img/2024-06-09-thedeathofcentos/ee0c73f4a12a462ab495d5aace3616dd.webp)
+![ee0c73f4a12a462ab495d5aace3616dd.png](/assets/img/2024-06-09-the-death-of-centos/ee0c73f4a12a462ab495d5aace3616dd.webp)
 
 # Reference
 [https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux](https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux)  
