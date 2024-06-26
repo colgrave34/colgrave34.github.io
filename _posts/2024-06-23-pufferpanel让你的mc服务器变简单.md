@@ -26,7 +26,7 @@ Bisect 和 Apex 都是打广告相当凶的两个公司，4 GB 内存的租赁�
 
 最后想着算了，找台旧电脑自己跑服务器吧，内存还比 4 GB 多。
 
-在花时间找网页管理的时候忽然找到个好玩意。[Pufferpanel](https://www.pufferpanel.com/) 是一个开源的网页游戏服务器管理。在我试过的众多我的世界游戏服务器里，操作最简单，最易用的了。不仅支持我的世界，像 ARK，GMod，Palworld，Terraria，Zomboid 都支持。  
+在花时间找网页管理的时候忽然找到个好玩意。[PufferPanel](https://www.pufferpanel.com/) 是一个开源的网页游戏服务器管理。在我试过的众多我的世界游戏服务器里，操作最简单，最易用的了。不仅支持我的世界，像 ARK，GMod，Palworld，Terraria，Zomboid 都支持。  
 游戏支持列表：[https://github.com/pufferpanel/templates](https://github.com/pufferpanel/templates)
 
 ![200de389e976f65034db0fdf2c2d96f2](https://docs.pufferpanel.com/en/2.x/_images/serverlist.png)
