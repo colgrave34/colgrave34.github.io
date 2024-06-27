@@ -74,7 +74,7 @@ java -version
 curl -s https://packagecloud.io/install/repositories/pufferpanel/pufferpanel/script.deb.sh | sudo bash
 # 更新软件库
 sudo apt update
-# 安装 Java 和 Pufferpanel
+# 安装 Java 17 和 PufferPanel
 sudo apt install openjdk-17-jre-headless pufferpanel -y 
 ```
 
