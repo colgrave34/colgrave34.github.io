@@ -131,7 +131,7 @@ PufferPanel 是以模板（Template）的形式来设置以及启动服务器，
 
 ![50845869b8aeddc1a98b73a9270c8251](/assets/img/2024-06-23-pufferpanel-makes-your-mc-journey-easier/50845869b8aeddc1a98b73a9270c8251.webp)
 
-- EULA Aggrement  
+- EULA Agreement  
 这里可以直接让 PufferPanel 同意用户协议。
 - IP  
 IP 这里填 0.0.0.0 就好，让服务器接受所有 IP。
