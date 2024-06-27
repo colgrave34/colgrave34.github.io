@@ -80,7 +80,7 @@ sudo apt install openjdk-17-jre-headless pufferpanel -y
 
 ### 防火墙设置
 ```bash
-# 允许 Pufferpanel 网页端口连接
+# 允许 PufferPanel 网页端口连接
 sudo ufw allow 8080/tcp
 # 允许 Minecraft 服务器端口连接
 sudo ufw allow 25565/tcp
