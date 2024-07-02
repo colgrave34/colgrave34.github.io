@@ -60,7 +60,7 @@ My favorite and my daily right now.
 If you want a nearly vanilla distro, Fedora is your choice. 
 
 ### [OpenSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/)
-OpenSUSE Tumbleweed is a stable rolling release distro with the newish packages. YaST can be really easy for new users. 
+OpenSUSE Tumbleweed is a stable rolling release distro with the newest packages. YaST can be really easy for new users. 
 
 ## Server Linux Distros
 ### [Debian](https://www.debian.org/)
@@ -107,23 +107,6 @@ Non-profit DNS resolver, promise for user privacy and protect user from malware 
 ### [Pi-hole](https://pi-hole.net/)
 The self-host option for DNS, provide great ad blocking feature. 
 
-## VPN & Proxy
-### [Mullvad](https://mullvad.net)
-Mullvad is a commercial VPN service based in Sweden. 
-
-### [Wireguard](https://www.wireguard.com/)
-Simple and fast modern self-hosted VPN. 
-
-### [Trojan](https://trojan-gfw.github.io/trojan/)
-An unidentifiable mechanism that helps you bypass GFW. 
-
-### [NekoRay](https://github.com/MatsuriDayo/nekoray)
-Qt based cross-platform GUI proxy configuration manager. 
-
-### [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid)
-sing-box / universal proxy tool chain for Android. 
-
-
 # Surfing on the Web
 ## Web Browsers
 ### [Firefox](https://www.mozilla.org/en-US/firefox/new/)
@@ -137,6 +120,7 @@ Apart from all the Web3 feature, it's a solid browser for someone that don't rea
 Vanilla Chromium but without all Google dependency. 
 
 ## Search Engines
+### [Duckduckgo lite/html]
 ### [Brave Search](https://search.brave.com/)
 Independent search engine by Brave Software, Inc. 
 
@@ -148,7 +132,7 @@ It uses other search engine's result and combine them together.
 ## Browser Extensions
 ### [uBlock Origin](https://ublockorigin.com/)
 Free and open-source ad content blocker.  
-It doesn't only block ads, also can [block YouTube short](https://letsblock.it/filters/youtube-shorts). 
+It doesn't only block ads, also can [bypass paywalls](https://github.com/bpc-clone/bypass-paywalls-clean-filters) and [block YouTube short](https://letsblock.it/filters/youtube-shorts). 
 
 ### [Vimium](https://vimium.github.io/)
 Use your browser like you use Vim. 
@@ -245,12 +229,6 @@ SiYuan supports Markdown, notes Graph View and it's self-hostable.
 ## Google Drive Alternatives
 ### [Nextcloud](https://nextcloud.com/)
 Nextcloud is an open source suites of software similar to Dropbox, Office 365 and Google Drive.  
-Nextcloud is a fork of OwnCloud but has more features. 
-
-### [OwnCloud](https://owncloud.com/)
-OwnCloud is an open source cloud and file syncing software alternative to Google Drive.  
-It provides a clean and fast experience, and you will have control over your files. 
-
 
 # Creative Tools
 ## Image/Digital Drawing
