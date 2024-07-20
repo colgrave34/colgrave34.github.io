@@ -22,7 +22,8 @@ So I thought, how about I made my own Awesome List. I have a lot of software too
   - [DNS](#dns)
   - [VPN & Proxy](#vpn--proxy)
 - [Suring on the Web](#surfing-on-the-web)
-  - [Web Browsers](#web-browsers)
+  - [Desktop Web Browsers](#desktop-web-browsers)
+  - [Mobile Web Browsers](#mobile-web-browser)
   - [Search Engines](#search-engines)
   - [Browser Extensions](#browser-extensions)
 - [Communications](#communications)
@@ -85,7 +86,6 @@ SophiApp is a free, open-source app allows you to delete bloatware, disable tele
 But, life isn't perfect. Sometimes we have to use Windows.  
 We cannot get rid of every possible problems with Windows, but we can make it better. 
 
-
 # Networking
 ## Router Firmaware
 ### [OpenWrt](https://openwrt.org/)
@@ -108,7 +108,7 @@ Non-profit DNS resolver, promise for user privacy and protect user from malware 
 The self-host option for DNS, provide great ad blocking feature. 
 
 # Surfing on the Web
-## Web Browsers
+## Desktop Web Browsers
 There are the Web Browsers I tried and used personally.  
 For a detailed comparison, please refer to [PrivacyTests.org](https://privacytests.org/).
 ### ~~[Firefox](https://www.mozilla.org/en-US/firefox/new/)~~
@@ -134,6 +134,15 @@ Apart from all the Web3 feature, it's a solid browser for someone that don't rea
 ### [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)
 Vanilla Chromium but without all Google dependency. 
 
+## Mobile Web Browsers
+### [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/)
+Fennec is based on the latest Firefox release (codenamed Fenix).  
+It has proprietary bits and telemetry removed, but keep in mind that **it still connects to various Mozilla and Google services that can track users**.
+
+### [Mull](https://f-droid.org/packages/us.spotco.fennec_dos/)
+Mull is also based on Fenix.  
+But it enables many features upstreamed by the Tor Uplift project, and have every single bit of proprietary bits and telemetry removed. It don't connect to Mozilla and Google services at all.
+
 ## Search Engines
 ### [Duckduckgo lite/html]
 ### [Brave Search](https://search.brave.com/)
@@ -157,7 +166,6 @@ Spelling and grammar checker.
 
 ### [Sponsor blocks](https://sponsor.ajay.app/)
 Skip sponsored segments on YouTube and other video platform. 
-
 
 # Communications
 ## Real-time Communication
@@ -216,7 +224,6 @@ Open source, good-looking Android RSS reader.
 ### [Kill the newsletter!](https://kill-the-newsletter.com/)
 Do you want to change all the newsletter to RSS?  
 There's always some newsletter that don't have RSS support. Kill the newsletter is your bet. 
-
 
 # Productivity
 ## Office Tools
