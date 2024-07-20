@@ -67,12 +67,12 @@ OpenSUSE Tumbleweed is a stable rolling release distro with the newest packages.
 You can't go wrong with Debian.  
 It's known as the most stable community distro by running old packages. 
 
+### [Rocky Linux](https://rockylinux.org/)
+Rocky Linux is an enterprise operating system designed to be compatible with Red Hat Enterprise Linux. 
+
 ### [AlmaLinux](https://almalinux.org/)
 AlmaLinux is a community owned and governed enterprise Linux distribution.  
 It is ABI compatible with Red Hat Enterprise Linux. 
-
-### [Rocky Linux](https://rockylinux.org/)
-Rocky Linux is an enterprise operating system designed to be 100% bug-for-bug compatible with Red Hat Enterprise Linux. 
 
 ### [OpenSUSE Leap](https://get.opensuse.org/leap/)
 OpenSUSE Leap uses source from SUSE Linux Enterprise, which gives an enterprise level of stability to your home lab. 
