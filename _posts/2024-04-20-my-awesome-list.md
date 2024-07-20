@@ -109,11 +109,26 @@ The self-host option for DNS, provide great ad blocking feature.
 
 # Surfing on the Web
 ## Web Browsers
-### [Firefox](https://www.mozilla.org/en-US/firefox/new/)
-The only non-Chromium based, open source web browser. 
+There are the Web Browsers I tried and used personally.  
+For a detailed comparison, please refer to [PrivacyTests.org](https://privacytests.org/).
+### ~~[Firefox](https://www.mozilla.org/en-US/firefox/new/)~~
+I can't recommend Firefox anymore. Mozilla have been disappointing us again and again, they have approved that revenue is their first priority.  
+This is my breaking point as [Firefox now collects user data by default](https://news.ycombinator.com/item?id=40974112).
+
+### [LibreWolf](https://librewolf.net/)
+A custom and independent fork of Firefox, with the primary goals of privacy, security and user freedom.  
+No telemetry, no tracking. Lots of privacy setting applied by default. Daily right now, highly recommend.
+
+### [Waterfox](https://www.waterfox.net/)
+Another fork of Firefox, it's faster, and built without all the telemetry. Tracking protection is enabled by default.  
+Is also offers Oblivious DNS as the DNS-over-HTTPS. It also comes with their own themes that look like the classic Firefox.
+
+### [Floorp](https://floorp.app/en)
+Floorp is an independent Firefox fork, build by hobbyist Japanese students.  
+Beside all the Strong Tracking Protection and No User Tracking, Floorp really shines with its Sidebars, Flexible Toolbar and Tab Bar.
 
 ### [Brave](https://brave.com/)
-Zero configuration browser with Ad blocker build in.  
+The zero configuration needed browser with Ad blocker build in.  
 Apart from all the Web3 feature, it's a solid browser for someone that don't really want to mess with their browser. 
 
 ### [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)
