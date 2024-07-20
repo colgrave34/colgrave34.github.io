@@ -74,7 +74,7 @@ It is ABI compatible with Red Hat Enterprise Linux.
 ### [Rocky Linux](https://rockylinux.org/)
 Rocky Linux is an enterprise operating system designed to be 100% bug-for-bug compatible with Red Hat Enterprise Linux. 
 
-### [OpenSUSE](https://get.opensuse.org/leap/)
+### [OpenSUSE Leap](https://get.opensuse.org/leap/)
 OpenSUSE Leap uses source from SUSE Linux Enterprise, which gives an enterprise level of stability to your home lab. 
 
 ## Windows
