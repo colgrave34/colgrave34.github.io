@@ -125,7 +125,8 @@ Is also offers Oblivious DNS as the DNS-over-HTTPS. It also comes with their own
 
 ### [Floorp](https://floorp.app/en)
 Floorp is an independent Firefox fork, build by hobbyist Japanese students.  
-Beside all the Strong Tracking Protection and No User Tracking, Floorp really shines with its Sidebars, Flexible Toolbar and Tab Bar.
+Beside all the Strong Tracking Protection and No User Tracking, Floorp really shines with its Sidebars, Flexible Toolbar and Tab Bar.  
+[Floorp's comparison with Waterfox by their developer](https://github.com/Floorp-Projects/Floorp/issues/100#issuecomment-1272325327)
 
 ### [Brave](https://brave.com/)
 The zero configuration needed browser with Ad blocker build in.  
