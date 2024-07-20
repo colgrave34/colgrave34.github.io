@@ -144,7 +144,10 @@ Mull is also based on Fenix.
 But it enables many features upstreamed by the Tor Uplift project, and have every single bit of proprietary bits and telemetry removed. It don't connect to Mozilla and Google services at all.
 
 ## Search Engines
-### [Duckduckgo lite/html]
+### Duckduckgo Lite / HTML
+[Duckduckgo Lite](https://lite.duckduckgo.com/lite) and [Duckduckgo HTML](https://html.duckduckgo.com/html) are two non-JavaScript versions of the search engine.  
+It's extramly fast and responsive. But it lacks all other features like images, maps etc.
+
 ### [Brave Search](https://search.brave.com/)
 Independent search engine by Brave Software, Inc. 
 
