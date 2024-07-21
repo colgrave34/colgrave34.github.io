@@ -187,11 +187,9 @@ Session is an end-to-end encrypted, decentralized instant messaging application.
 It was originally started as a fork of Signal, but due to concerns about the centralized structure and phone number requirement, they decide to deviate from it.  
 Compare to Signal, both all client and server software are open source. It uses a Session code to login, which might be confusion for some users. 
 
-### [Matrix](https://matrix.org/) & [Element](https://element.io/)
+### [Matrix](https://matrix.org/)
 Matrix is an open standard real-time communication protocol.  
-Besides all the decentralized goodness, it also supports bridges to connect between other chat services, so you can use one app for all your communication needs. 
-
-Element on the other hand is a client application for Matrix, I think it's the best all around app for it. 
+Besides all the decentralized goodness, it also supports bridges to connect between other chat services, so you can use one app for all your communication needs.  
 
 ## Email
 ### Email Provider
