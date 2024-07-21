@@ -196,20 +196,20 @@ Besides all the decentralized goodness, it also supports bridges to connect betw
 [Tuta](https://tuta.com/)  
 Tuta is an end-to-end encrypted email app and a freemium secure email service based in Germany. 
 
-[Proton Mail](https://proton.me/mail)  
-Proton Mail is also an end-to-end encrypted email service founded in 2013 headquartered in Switzerland. 
-
 [Disroot](https://disroot.org/en)  
 Disroot project is based in Amsterdam and providing open, decentralized, federated services that respectful freedom and privacy.  
 You need to use an email client to use their service. 
 
-### Email Client
+### Email Clients
 [Thunderbird](https://www.thunderbird.net/en-US/)  
 Thunderbird is an open source email client from Mozilla.  
 After the 115 update, I think everyone should start switching. 
 
 [K-9 Mail](https://k9mail.app/)  
 As current maintainer joined to Mozilla Foundation, K-9 Mail plans to be rebranded as Thunderbird for Android. 
+
+[meli](https://git.meli-email.org/meli/meli.git)  
+A really cool terminal based email client, written in rust. 
 
 ### Email Aliasing Provider
 [Simplelogin](https://simplelogin.io/)  
