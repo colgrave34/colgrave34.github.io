@@ -2,7 +2,7 @@
 layout: post
 title: My Awesome List
 date: 2024-04-20
-category: post
+category: projects
 ---
 [Awesome Lists](https://github.com/sindresorhus/awesome) are lists of awesome tools, books, guides and media that everyone can contribute to. 
 
