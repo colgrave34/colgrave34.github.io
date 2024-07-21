@@ -162,6 +162,9 @@ It uses other search engine's result and combine them together.
 Free and open-source ad content blocker.  
 It doesn't only block ads, also can [bypass paywalls](https://github.com/bpc-clone/bypass-paywalls-clean-filters) and [block YouTube short](https://letsblock.it/filters/youtube-shorts). 
 
+### [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker)
+CanvasBlocker prevent websites from using some Javascript APIs to fingerprinting. 
+
 ### [Vimium](https://vimium.github.io/)
 Use your browser like you use Vim. 
 
