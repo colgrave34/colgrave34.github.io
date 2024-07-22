@@ -249,7 +249,7 @@ It supports mutiable synchronisation target such as: Nextcloud, S3, OneDrive, Dr
 Simplenote is a note-taking application with Markdown support.  
 It's for people just want a Markdown supported note-taking App. 
 
-### [SiYuan/思源笔记](https://github.com/siyuan-note/siyuan)
+### [SiYuan / 思源笔记](https://github.com/siyuan-note/siyuan)
 SiYuan is a privacy-first personal knowledge management system.  
 SiYuan supports Markdown, notes Graph View and it's self-hostable. 
 
@@ -258,7 +258,7 @@ SiYuan supports Markdown, notes Graph View and it's self-hostable.
 Nextcloud is an open source suites of software similar to Dropbox, Office 365 and Google Drive.  
 
 # Creative Tools
-## Image/Digital Drawing
+## Image / Digital Drawing
 ### [GIMP](https://www.gimp.org/)
 GNU Image Manipulation Program is a free and open source graphics editor.  
 It is the Photoshop alternative. 
