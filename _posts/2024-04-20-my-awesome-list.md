@@ -270,6 +270,10 @@ Darktable is similar to Lightroom, it's an open source photography application a
 I would like you to stop paying for digital drawing app such as Photoshop, Clip studio and SAI.  
 Krita can do everything they can, it's an open source digital art and 2D animation application. 
 
+### [Drawpile](https://drawpile.net/)
+If you are wondering how those VTuber drawing on the same canvas, I believe Drawpile is what they use.  
+It's an open source collaborative drawing program that lets multiple people draw, sketch, paint and animate on the same canvas simultaneously.
+
 ## CAD & 3D Modeling Tools
 ### [Blender](https://www.blender.org/)
 Blender is an open source 3D modeling tool. 
