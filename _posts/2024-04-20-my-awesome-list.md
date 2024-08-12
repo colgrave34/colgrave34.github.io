@@ -109,7 +109,7 @@ The self-host option for DNS, provide great ad blocking feature.
 
 # Surfing on the Web
 ## Desktop Web Browsers
-There are the Web Browsers I tried and used personally.  
+These are the Web Browsers I tried and used personally.  
 For a detailed comparison, please refer to [PrivacyTests.org](https://privacytests.org/).
 ### ~~[Firefox](https://www.mozilla.org/en-US/firefox/new/)~~
 I can't recommend Firefox anymore. Mozilla have been disappointing us again and again, they have approved that revenue is their first priority.  
