@@ -4,7 +4,7 @@ title: Downtown Calgary
 date: 2024-08-26
 category: gallery
 ---
-*Downtown Calgary, AB Canada*
+*Downtown Calgary, Alberta, Canada*
 
 ![DSC01346](/assets/img/2024-08-26-downtown-calgary/DSC01346.webp)
 
