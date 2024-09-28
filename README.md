@@ -8,7 +8,7 @@ I prefer using email for all my professional work.
 If you have a question, ask me on Matrix, Mastodon or just simply leave a comment under the post. 
 
 ## License
-Site content is under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
+Site content is under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)  
 Site code is under [MIT](https://github.com/Colgrave34/Colgrave34.github.io/blob/main/LICENSE)
 
 ## Donations are welcome if you like what I do!
