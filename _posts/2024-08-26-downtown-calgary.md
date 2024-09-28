@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: gallery
 title: Downtown Calgary
 date: 2024-08-26
 category: gallery

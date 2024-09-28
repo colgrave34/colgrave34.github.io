@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: gallery
 title: Flowerpot Island
 date: 2024-05-28
 category: gallery

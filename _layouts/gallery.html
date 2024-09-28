@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+{%-include back_link.html-%}
+
+<article>
+  <p class="post-meta">
+    <time datetime="{{ page.date }}">{{ page.date | date: site.theme_config.date_format }}</time>
+  </p>
+  
+  <h1>{{ page.title }}</h1>
+
+  {{ content }}
+</article>
+
+<hr>
+
+<p>Photos above © 2023 - present by Hanqi Xu is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></p>
+
+<script src="https://giscus.app/client.js"
+        data-repo="Colgrave34/Colgrave34.github.io"
+        data-repo-id="R_kgDOJ1T0gg"
+        data-category="General"
+        data-category-id="DIC_kwDOJ1T0gs4CXioU"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

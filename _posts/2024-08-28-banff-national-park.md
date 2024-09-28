@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: gallery
 title: Banff National Park
 date: 2024-08-28
 category: gallery
