@@ -4,56 +4,63 @@
 entries:
   - title: about
     url: about
+
   - title: contact
     url: contact
 
   - title: all-posts
     post_list:
-      limit: 5
+      limit: 6
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
 
+  - title: projects
+    post_list:
+      category: projects
+      limit: 6
+      show_more: true
+      show_more_text: See more projects...
+      show_more_url: projects.html
+
   - title: linux-lighthouse
     post_list:
       category: linux-lighthouse
+      limit: 2
       show_more: true
-      show_more_text: See more posts...
+      show_more_text: See more about Linux...
       show_more_url: linux-lighthouse.html
 
   - title: linux灯塔
     post_list:
       category: linux灯塔
+      limit: 2
       show_more: true
-      show_more_text: See more posts...
+      show_more_text: See more about Linux...
       show_more_url: linux灯塔.html
 
   - title: custom-keyboard-101
     post_list:
       category: custom-keyboard-101
+      limit: 2
       show_more: true
-      show_more_text: See more posts...
+      show_more_text: See more about keebs...
       show_more_url: custom-keyboard-101.html
 
   - title: 客制化键盘指北
     post_list:
       category: 客制化键盘指北
+      limit: 2
       show_more: true
-      show_more_text: See more posts...
+      show_more_text: See more about keebs...
       show_more_url: 客制化键盘指北.html
-
-  - title: projects
-    post_list:
-      category: projects
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: projects.html
 
   - title: gallery
     post_list:
       category: gallery
+      limit: 4
       show_more: true
-      show_more_text: See more posts...
+      show_more_text: See more photos...
       show_more_url: gallery.html
 
   - title: about-this-website
