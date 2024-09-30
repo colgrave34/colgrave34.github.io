@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 Welcome to my blog!  
-Because the website is open source, feel free to correct me on [Github](https://github.com/Colgrave34/Colgrave34.github.io).  
+The website is fully open source, feel free to correct me on [Github](https://github.com/Colgrave34/Colgrave34.github.io).  
 欢迎来到我的博客!  
 本网站完全开源，随时在 [Github](https://github.com/Colgrave34/Colgrave34.github.io) 上纠正我。
 
