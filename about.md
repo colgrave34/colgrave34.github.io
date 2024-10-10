@@ -5,8 +5,6 @@ permalink: /about/
 ---
 Welcome to my blog!  
 The website is fully open source, feel free to correct me on [Github](https://github.com/Colgrave34/Colgrave34.github.io).  
-欢迎来到我的博客!  
-本网站完全开源，随时在 [Github](https://github.com/Colgrave34/Colgrave34.github.io) 上纠正我。
 
 ## How to reach me
 You can reach out to me though [here](/contact/).  
@@ -26,13 +24,3 @@ This 101 course will tell you the ins and outs about Custom keyboards, layouts, 
 
 ### [客制化键盘指北](/%E5%AE%A2%E5%88%B6%E5%8C%96%E9%94%AE%E7%9B%98%E6%8C%87%E5%8C%97)
 这套指北将告诉你关于定制键盘的来龙去脉，布局，轴体类型以及机械键盘的历史。
-
-## Donations are welcome if you like what I do!
-### Liberpay
-[https://liberapay.com/Colgrave/donate](https://liberapay.com/Colgrave/donate)
-
-### Monero
-`41ev5fReKiS5DzmMjastM31DMf3jpdsG9HRD62YxWcBdMxG5xvcVxht1WSD4C4DxkoWFxjikHfZXY6k3KukXKEDsAB4Nb1c`
-
-### Unstoppable Domains
-[https://slowpoct.wallet/](https://slowpoct.wallet/)
