@@ -3,8 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-Welcome to my blog!  
-The website is fully open source, feel free to correct me on [Github](https://github.com/Colgrave34/Colgrave34.github.io).  
+Hi friends, My name is Hanqi and welcome to my blog. 
+
+I'm an IT professional, Hobbyist Photographer, Keeb Enthusiast, JDM Lover and Caffeine Addict.
 
 ## How to reach me
 You can reach out to me though [here](/contact/).  
