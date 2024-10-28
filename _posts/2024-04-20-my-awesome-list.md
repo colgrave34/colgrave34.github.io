@@ -6,13 +6,8 @@ category: projects
 ---
 [Awesome Lists](https://github.com/sindresorhus/awesome) are lists of awesome tools, books, guides and media that everyone can contribute to. 
 
-For example: [List of Free Programming Books](https://github.com/EbookFoundation/free-programming-books) and [Awesome Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi). 
-
 So I thought, how about I made my own Awesome List. I have a lot of software tools I used every day, privacy focused or just good tools overall, mostly are open source. 
 
-*These are not formal Awesome List* Just so you know.  
-
-&nbsp;
 - [Operating Systems](#operating-systems)
   - [Desktop Linux Distros](#desktop-linux-distros)
   - [Server Linux Distros](#server-linux-distros)
@@ -41,8 +36,6 @@ So I thought, how about I made my own Awesome List. I have a lot of software too
   - [Image/Digital Drawing](#imagedigital-drawing)
   - [CAD 3D Modeling Tools](#cad--3d-modeling-tools)
 
-
-&nbsp;
 # Operating Systems
 ## Desktop Linux Distros
 Here are desktop distros that I recommend for new users
@@ -161,9 +154,6 @@ It uses other search engine's result and combine them together.
 ### [uBlock Origin](https://ublockorigin.com/)
 Free and open-source ad content blocker.  
 It doesn't only block ads, also can [bypass paywalls](https://github.com/bpc-clone/bypass-paywalls-clean-filters) and [block YouTube short](https://letsblock.it/filters/youtube-shorts). 
-
-### [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker)
-CanvasBlocker prevent websites from using some Javascript APIs to fingerprinting. 
 
 ### [Vimium](https://vimium.github.io/)
 Use your browser like you use Vim. 
