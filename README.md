@@ -10,13 +10,3 @@ If you have a question, ask me on Matrix, Mastodon or just simply leave a commen
 ## License
 Site content is under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)  
 Site code is under [MIT](https://github.com/Colgrave34/Colgrave34.github.io/blob/main/LICENSE)
-
-## Donations are welcome if you like what I do!
-### Liberpay
-[https://liberapay.com/Colgrave/donate](https://liberapay.com/Colgrave/donate)
-
-### Monero
-`41ev5fReKiS5DzmMjastM31DMf3jpdsG9HRD62YxWcBdMxG5xvcVxht1WSD4C4DxkoWFxjikHfZXY6k3KukXKEDsAB4Nb1c`
-
-### Unstoppable Domains
-[https://slowpoct.wallet/](https://slowpoct.wallet/)
