@@ -93,7 +93,12 @@ img {
   margin: 0 auto;
 }
 
-//sakana
+// emoji
+.emoji {
+  filter: invert(1);
+}
+
+// sakana
 .sakana-box {
   filter: invert(1);
 }
