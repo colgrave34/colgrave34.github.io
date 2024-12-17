@@ -26,6 +26,5 @@ Feel free to say hi there!
 - [codeberg](https://codeberg.org/Colgrave)
 - [github](https://github.com/Colgrave34)
 - [sspai](https://sspai.com/u/11l4rhh4/updates/)
-- [peertube](https://tilvids.com/c/colgrave_channel/videos)
 - [youtube](https://www.youtube.com/@Colgrave34)
 - [bilibili](https://space.bilibili.com/16015122/)
