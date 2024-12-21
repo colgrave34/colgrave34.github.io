@@ -6,7 +6,7 @@ category: projects
 ---
 A Plasma Bigscreen install script for Arch Linux. 
 
-[Project Link](https://codeberg.org/Colgrave/plasma-bigscreen-install-script){: .btn .btn-outline }
+[Project Link](https://codeberg.org/Colgrave/pbinstall)
 
 ## How did we get here
 I had a Gaming NUC (8i7hnk if you like to know), the attention is to put in the living room for everyone to use.  
@@ -27,5 +27,5 @@ Maybe. Let's see after Bigscreen get out beta.
 ## How to use it
 Simple enough, just run the following command: 
 ```
-bash <(curl -s https://codeberg.org/Colgrave/plasma-bigscreen-install-script/raw/branch/main/pbinstall.sh)
+bash <(curl -s https://codeberg.org/Colgrave/pbinstall/raw/branch/main/pbinstall.sh)
 ```
