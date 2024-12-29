@@ -15,10 +15,8 @@ So I thought, how about I made my own Awesome List. I have a lot of software too
 - [Networking](#networking)
   - [Router Firmaware](#router-firmaware)
   - [DNS](#dns)
-  - [VPN & Proxy](#vpn--proxy)
 - [Suring on the Web](#surfing-on-the-web)
-  - [Desktop Web Browsers](#desktop-web-browsers)
-  - [Mobile Web Browsers](#mobile-web-browser)
+  - [Web Browsers](#desktop-web-browsers)
   - [Search Engines](#search-engines)
   - [Browser Extensions](#browser-extensions)
 - [Communications](#communications)
@@ -31,7 +29,6 @@ So I thought, how about I made my own Awesome List. I have a lot of software too
 - [Productivity](#productivity)
   - [Office Tools](#office-tools)
   - [Notetaking](#notetaking)
-  - [Google Drive Alternatives](#google-drive-alternatives)
 - [Creative Tools](#creative-tools)
   - [Image/Digital Drawing](#imagedigital-drawing)
   - [CAD 3D Modeling Tools](#cad--3d-modeling-tools)
@@ -54,7 +51,7 @@ My favorite and my daily right now.
 If you want a nearly vanilla distro, Fedora is your choice. 
 
 ### [OpenSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/)
-OpenSUSE Tumbleweed is a stable rolling release distro with the newest packages. YaST can be really easy for new users. 
+OpenSUSE Tumbleweed is a rolling release distro with the newest packages. YaST can be really easy for new users. 
 
 ## Server Linux Distros
 ### [Debian](https://www.debian.org/)
@@ -73,7 +70,10 @@ OpenSUSE Leap uses source from SUSE Linux Enterprise, which gives an enterprise 
 
 ## Windows
 ### [SophiApp](https://github.com/Sophia-Community/SophiApp)  
-SophiApp is a free, open-source app allows you to delete bloatware, disable telemetry and more. 
+SophiApp is a free, open-source app allows you to delete bloatware, disable telemetry and more.
+
+### [winutil](https://github.com/ChrisTitusTech/winutil)
+Chris Titus Tech's Windows Utility, which makes install programs, tweaking Windows easier.
 
 [Here](https://wiki.installgentoo.com/images/2/29/Windows10.jpg) is why I prefer Linux.  
 But, life isn't perfect. Sometimes we have to use Windows.  
@@ -95,31 +95,20 @@ It has been used by huge corporations and it has provided its stability.
 
 ## DNS
 ### [Quad9](https://www.quad9.net/)
-Non-profit DNS resolver, promise for user privacy and protect user from malware and phishing. 
+Non-profit DNS resolver, promise for user privacy and protect user from malware and phishing.
+
+### [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)
+AdGuard Home is a network-wide self-hostable DNS for blocking ads and tracking. It has support such as DNS-over-HTTPS and DNS-over-TLS.
 
 ### [Pi-hole](https://pi-hole.net/)
-The self-host option for DNS, provide great ad blocking feature. 
+The self-host option for DNS, provide great ad blocking feature.
 
 # Surfing on the Web
 ## Desktop Web Browsers
 These are the Web Browsers I tried and used personally.  
 For a detailed comparison, please refer to [PrivacyTests.org](https://privacytests.org/).
-### ~~[Firefox](https://www.mozilla.org/en-US/firefox/new/)~~
-I can't recommend Firefox anymore. Mozilla have been disappointing us again and again, they have approved that revenue is their first priority.  
-This is my breaking point as [Firefox now collects user data by default](https://news.ycombinator.com/item?id=40974112).
-
-### [LibreWolf](https://librewolf.net/)
-A custom and independent fork of Firefox, with the primary goals of privacy, security and user freedom.  
-No telemetry, no tracking. Lots of privacy setting applied by default. Daily right now, highly recommend.
-
-### [Waterfox](https://www.waterfox.net/)
-Another fork of Firefox, it's faster, and built without all the telemetry. Tracking protection is enabled by default.  
-Is also offers Oblivious DNS as the DNS-over-HTTPS. It also comes with their own themes that look like the classic Firefox.
-
-### [Floorp](https://floorp.app/en)
-Floorp is an independent Firefox fork, build by hobbyist Japanese students.  
-Beside all the Strong Tracking Protection and No User Tracking, Floorp really shines with its Sidebars, Flexible Toolbar and Tab Bar.  
-[Floorp's comparison with Waterfox by their developer](https://github.com/Floorp-Projects/Floorp/issues/100#issuecomment-1272325327)
+### [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+The only open-source web browser that still has competition with Chrome.
 
 ### [Brave](https://brave.com/)
 The zero configuration needed browser with Ad blocker build in.  
@@ -128,22 +117,13 @@ Apart from all the Web3 feature, it's a solid browser for someone that don't rea
 ### [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)
 Vanilla Chromium but without all Google dependency. 
 
-## Mobile Web Browsers
-### [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/)
-Fennec is based on the latest Firefox release (codenamed Fenix).  
-It has proprietary bits and telemetry removed, but keep in mind that **it still connects to various Mozilla and Google services that can track users**.
-
-### [Mull](https://f-droid.org/packages/us.spotco.fennec_dos/)
-Mull is also based on Fenix.  
-But it enables many features upstreamed by the Tor Uplift project, and have every single bit of proprietary bits and telemetry removed. It don't connect to Mozilla and Google services at all.
-
 ## Search Engines
+### [Brave Search](https://search.brave.com/)
+Independent search engine by Brave Software, Inc. 
+
 ### Duckduckgo Lite / HTML
 [Duckduckgo Lite](https://lite.duckduckgo.com/lite) and [Duckduckgo HTML](https://html.duckduckgo.com/html) are two non-JavaScript versions of the search engine.  
 It's extramly fast and responsive. But it lacks all other features like images, maps etc.
-
-### [Brave Search](https://search.brave.com/)
-Independent search engine by Brave Software, Inc. 
 
 ### [SearXNG](https://docs.searxng.org/)
 Open source, self-hostable, privacy-respecting metasearch engine.  
@@ -171,11 +151,6 @@ Signal is an end-to-end encrypted messaging service.
 They were aiming for beating WhatsApp and fight for user privacy.  
 Super user-friendly and only require phone number to sign up.  
 Note: *Signal's server is not open source, but the client is.* 
-
-### [Session](https://getsession.org/)
-Session is an end-to-end encrypted, decentralized instant messaging application.  
-It was originally started as a fork of Signal, but due to concerns about the centralized structure and phone number requirement, they decide to deviate from it.  
-Compare to Signal, both all client and server software are open source. It uses a Session code to login, which might be confusion for some users. 
 
 ### [Matrix](https://matrix.org/)
 Matrix is an open standard real-time communication protocol.  
@@ -235,26 +210,15 @@ If you'd like to switch away from Microsoft Office, OnlyOffice might be the go-t
 Joplin is a free and open source note-taking application.  
 It supports mutiable synchronisation target such as: Nextcloud, S3, OneDrive, Dropbox or WebDAV. 
 
-### [Simplenote](https://simplenote.com/)
-Simplenote is a note-taking application with Markdown support.  
-It's for people just want a Markdown supported note-taking App. 
-
 ### [SiYuan / 思源笔记](https://github.com/siyuan-note/siyuan)
 SiYuan is a privacy-first personal knowledge management system.  
 SiYuan supports Markdown, notes Graph View and it's self-hostable. 
-
-## Google Drive Alternatives
-### [Nextcloud](https://nextcloud.com/)
-Nextcloud is an open source suites of software similar to Dropbox, Office 365 and Google Drive.  
 
 # Creative Tools
 ## Image / Digital Drawing
 ### [GIMP](https://www.gimp.org/)
 GNU Image Manipulation Program is a free and open source graphics editor.  
 It is the Photoshop alternative. 
-
-### [Darktable](https://www.darktable.org/)
-Darktable is similar to Lightroom, it's an open source photography application and raw developer. 
 
 ### [Krita](https://krita.org/en/)
 I would like you to stop paying for digital drawing app such as Photoshop, Clip studio and SAI.  
@@ -263,6 +227,9 @@ Krita can do everything they can, it's an open source digital art and 2D animati
 ### [Drawpile](https://drawpile.net/)
 If you are wondering how those VTuber drawing on the same canvas, I believe Drawpile is what they use.  
 It's an open source collaborative drawing program that lets multiple people draw, sketch, paint and animate on the same canvas simultaneously.
+
+### [Darktable](https://www.darktable.org/)
+Darktable is similar to Lightroom, it's an open source photography application and raw developer. 
 
 ## CAD & 3D Modeling Tools
 ### [Blender](https://www.blender.org/)
