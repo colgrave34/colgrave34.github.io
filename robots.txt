@@ -3,5 +3,46 @@ layout: null
 sitemap: false
 ---
 Sitemap: {{ "sitemap.xml" | absolute_url }}
+
+User-agent: Baiduspider
+Disallow:
+Crawl-delay: 10
+
+User-agent: Bingbot
+Disallow:
+Crawl-delay: 10
+
+User-agent: DuckDuckBot
+Disallow:
+Crawl-delay: 10
+
+User-agent: Googlebot
+Disallow:
+Crawl-delay: 10
+
+User-agent: Kagibot
+Disallow:
+Crawl-delay: 10
+
+User-agent: MojeekBot
+Disallow:
+Crawl-delay: 10
+
+User-agent: Qwantbot
+Disallow:
+Crawl-delay: 10
+
+User-agent: Slurp
+Disallow:
+Crawl-delay: 10
+
+User-agent: Yandex
+Disallow:
+Crawl-delay: 10
+
+User-agent: YepBot
+Disallow:
+Crawl-delay: 10
+
 User-agent: *
 Disallow: /
