@@ -3,6 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+<img align="right" src="/assets/img/20241029105537.webp" alt="profile" width="250" height="250">
+
 Hi friends, welcome to my blog!
 
 My name is Hanqi or just call me Colgrave.
