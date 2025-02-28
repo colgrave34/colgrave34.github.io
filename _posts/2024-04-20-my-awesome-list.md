@@ -35,7 +35,7 @@ So I thought, how about I made my own Awesome List. I have a lot of software too
 
 # Operating Systems
 ## Desktop Linux Distros
-Here are desktop distros that I recommend for new users
+Here are desktop distros that I recommend for new users.
 ### [Linux Mint](https://linuxmint.com/)
 The "just works" distro.  
 If you start your Linux journey, this might be the best distro to try out. 
@@ -58,6 +58,10 @@ OpenSUSE Tumbleweed is a rolling release distro with the newest packages. YaST c
 You can't go wrong with Debian.  
 It's known as the most stable community distro by running old packages. 
 
+### [NixOS](https://nixos.org/)
+A distro that is fully reproducible and rock solid by integrated tightly with Nix package manager.  
+With system-wide configuration management, you can control the entire system with just one configuration.
+
 ### [Rocky Linux](https://rockylinux.org/)
 Rocky Linux is an enterprise operating system designed to be compatible with Red Hat Enterprise Linux. 
 
@@ -69,8 +73,8 @@ It is ABI compatible with Red Hat Enterprise Linux.
 OpenSUSE Leap uses source from SUSE Linux Enterprise, which gives an enterprise level of stability to your home lab. 
 
 ## Windows
-### [SophiApp](https://github.com/Sophia-Community/SophiApp)  
-SophiApp is a free, open-source app allows you to delete bloatware, disable telemetry and more.
+### [Sophia Script](https://github.com/farag2/Sophia-Script-for-Windows)
+Sophia Script is a series of PowerShell module allows you to tweak, delete bloatware, disable telemetry and more.
 
 ### [winutil](https://github.com/ChrisTitusTech/winutil)
 Chris Titus Tech's Windows Utility, which makes install programs, tweaking Windows easier.
@@ -106,9 +110,29 @@ The self-host option for DNS, provide great ad blocking feature.
 # Surfing on the Web
 ## Desktop Web Browsers
 These are the Web Browsers I tried and used personally.  
-For a detailed comparison, please refer to [PrivacyTests.org](https://privacytests.org/).
-### [Firefox](https://www.mozilla.org/en-US/firefox/new/)
-The only open-source web browser that still has competition with Chrome.
+For a more detailed comparison, please refer to [PrivacyTests.org](https://privacytests.org/).
+
+### ~~[Firefox](https://www.mozilla.org/en-US/firefox/new/)~~
+I can't recommend Firefox anymore. Mozilla have been disappointing us again and again, they have approved that revenue is their first priority.  
+This is my breaking point as [Firefox now collects user data by default](https://news.ycombinator.com/item?id=40974112).  
+Feb 2025 update: [Chat, Is Mozilla Firefox Cooked - by Brodie Robertson](https://www.youtube.com/watch?v=W3Yvv4EaTfs)
+
+### [LibreWolf](https://librewolf.net/)
+A custom and independent fork of Firefox, with the primary goals of privacy, security and user freedom.  
+No telemetry, no tracking. Lots of privacy setting applied by default. Daily right now, highly recommend.
+
+### [Waterfox](https://www.waterfox.net/)
+Another fork of Firefox, it's faster, and built without all the telemetry. Tracking protection is enabled by default.  
+Is also offers Oblivious DNS as the DNS-over-HTTPS. It also comes with their own themes that look like the classic Firefox.
+
+### [Floorp](https://floorp.app/en)
+Floorp is an independent Firefox fork, build by hobbyist Japanese students.  
+Beside all the Strong Tracking Protection and No User Tracking, Floorp really shines with its Sidebars, Flexible Toolbar and Tab Bar.  
+[Floorp's comparison with Waterfox by their developer](https://github.com/Floorp-Projects/Floorp/issues/100#issuecomment-1272325327)
+
+### [Zen Browser](https://zen-browser.app/)
+Zen was inspired by [Arc Browser](https://arc.net/) but based on Firefox.  
+As Arc slowly ceased development, Zen became the beautifully designed and privacy-focused broswer that a lot of developer use.
 
 ### [Brave](https://brave.com/)
 The zero configuration needed browser with Ad blocker build in.  
@@ -175,12 +199,6 @@ As current maintainer joined to Mozilla Foundation, K-9 Mail plans to be rebrand
 
 [meli](https://git.meli-email.org/meli/meli.git)  
 A really cool terminal based email client, written in rust. 
-
-### Email Aliasing Provider
-[Simplelogin](https://simplelogin.io/)  
-Email Aliasing will generate a random, disposable email address for you and forward it to your real email.  
-This is useable for one time sign up, trying new services, or just don't want to give out your real email.  
-Simplelogin is the only service I tried, it might have better providers out there. 
 
 ## RSS
 I really don't know where to put RSS...  
