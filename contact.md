@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 ## Email
-[hanqixu.blogs@simplelogin.co](mailto:hanqixu.blogs@simplelogin.co)
+[hanqixu@outlook.com](mailto:hanqixu@outlook.com)
 
 ## Matrix
 I prefer to do all my professional work via email.  
