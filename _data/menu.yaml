@@ -15,14 +15,6 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: projects
-    post_list:
-      category: projects
-      limit: 4
-      show_more: true
-      show_more_text: See more projects...
-      show_more_url: projects.html
-
   - title: linux-lighthouse
     post_list:
       category: linux-lighthouse
@@ -55,6 +47,14 @@ entries:
       show_more_text: Learn more about keebs...
       show_more_url: 客制化键盘指北.html
 
+  - title: projects
+    post_list:
+      category: projects
+      limit: 4
+      show_more: true
+      show_more_text: See more projects...
+      show_more_url: projects.html
+
   - title: gallery
     post_list:
       category: gallery
@@ -68,4 +68,3 @@ entries:
 
   - title: rss
     url: feed.xml
- 
